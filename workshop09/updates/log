@@ -1,0 +1,64 @@
+201005-155631 Modified: Nzg3ZTExZTIyMzA5OGQ3OTc4NmM0ZDIwNDVkNmVhNjI2Y2JmMTdjYyAgLi91cGRhdGVzL3dvcmtz
+aG9wMDktMjAyMDA4MTQtMTAxNzA1LnppcApkNTQ5ZTkwYTA2NTE3NzQ5NTA2ZDJjMmY4YTU4Mzk3
+YmFlNzQ1Mjg5ICAuL01ha2VmaWxlCg==
+201005-155631 make install
+201005-155631 SVN user: a1788848, repository path: 2020/s2/cs/workshop09
+201005-155631 updater:  Directory: ./HelloWorld
+201005-155631 updater:  Directory: ./bin
+201005-155631 updater:  Directory: ./originals
+201005-155631 updater:  Directory: ./originals/HelloWorld
+201005-155631 updater:  Directory: ./originals/Sum
+201005-155631 updater:  Directory: ./originals/SDev
+201005-155631 updater:  Directory: ./originals/Average
+201005-155631 updater:  Directory: ./Sum
+201005-155631 updater:  Directory: ./SDev
+201005-155631 updater:  Directory: ./Average
+201005-155631 updater:  Creating: ./HelloWorld/test00.out
+201005-155631 updater:  Creating: ./HelloWorld/runAll.tst
+201005-155631 updater:  Creating: ./HelloWorld/runMain.tst
+201005-155631 updater:  Creating: ./HelloWorld/test00.in
+201005-155631 updater:  Creating: ./bin/run-tests
+201005-155631 updater:  Creating: updates/Makefile
+201005-155631 updater:  Creating: ./originals/HelloWorld/Main.jack
+201005-155631 updater:  Creating: ./originals/Sum/Main.jack
+201005-155631 updater:  Creating: ./originals/SDev/Main.jack
+201005-155631 updater:  Creating: ./originals/Average/Main.jack
+201005-155631 updater:  Creating: ./Sum/test00.out
+201005-155631 updater:  Creating: ./Sum/runAll.tst
+201005-155631 updater:  Creating: ./Sum/runMain.tst
+201005-155631 updater:  Creating: ./Sum/test00.in
+201005-155631 updater:  Creating: ./SDev/test02.in
+201005-155631 updater:  Creating: ./SDev/test01.out
+201005-155631 updater:  Creating: ./SDev/test00.out
+201005-155631 updater:  Creating: ./SDev/test02.out
+201005-155631 updater:  Creating: ./SDev/runAll.tst
+201005-155631 updater:  Creating: ./SDev/runMain.tst
+201005-155631 updater:  Creating: ./SDev/test01.in
+201005-155631 updater:  Creating: ./SDev/test00.in
+201005-155631 updater:  Creating: ./Average/test01.out
+201005-155631 updater:  Creating: ./Average/test00.out
+201005-155631 updater:  Creating: ./Average/runAll.tst
+201005-155631 updater:  Creating: ./Average/runMain.tst
+201005-155631 updater:  Creating: ./Average/test01.in
+201005-155631 updater:  Creating: ./Average/test00.in
+201005-155631 updater:  Made bin/run-tests executable
+201005-155631 updater:  Creating: HelloWorld/Main.jack
+201005-155631 updater:  Creating: Sum/Main.jack
+201005-155631 updater:  Creating: SDev/Main.jack
+201005-155631 updater:  Creating: Average/Main.jack
+201005-155631 updater:  Updating: updates/README
+201005-155631 updater:  Update installed
+201005-155903 make install
+201005-155903 SVN user: a1788848, repository path: 2020/s2/cs/workshop09
+201008-144516 Modified: MGM2ODIzMDFhZDViZjIzMmFjYWZjNjQ0MDc1MDAxZjVmZTRmYTY2MCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjNjYjc5NmZmNWEzY2RiOTMwNDBjNmY2ZTUxMzgwNTg1YTM4YTE0NjQgIC4vSGVs
+bG9Xb3JsZC9NYWluLmphY2sKYzY5N2MyNmM0ZDE2NTAxNzdiYzZhNWE0OWQ5MTFmNTQ2MGU5YzQ4
+OCAgLi9TdW0vTWFpbi5qYWNrCmU1ZmE0NGYyYjMxYzFmYjU1M2I2MDIxZTczNjBkMDdkNWQ5MWZm
+NWUgIC4vU0Rldi9NYWluLmphY2sKZTVmYTQ0ZjJiMzFjMWZiNTUzYjYwMjFlNzM2MGQwN2Q1ZDkx
+ZmY1ZSAgLi9BdmVyYWdlL01haW4uamFjawo=
+201008-144516 make 
+201008-144516 SVN user: a1788848, repository path: 2020/s2/cs/workshop09
+201008-144631 Modified: YjE5Mjk4NDUwZjAzMzVlODgwZTUyY2VkNmMzMzAyMzVkYmM1Y2IzYyAgLi9TdW0vTWFpbi5qYWNr
+Cg==
+201008-144631 make 
+201008-144631 SVN user: a1788848, repository path: 2020/s2/cs/workshop09

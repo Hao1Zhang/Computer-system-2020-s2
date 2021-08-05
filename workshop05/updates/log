@@ -1,0 +1,469 @@
+200821-154611 Modified: NmMzZmNmYjk3MmNkM2VmMzdmMmZmZjAwOWY4MjI3ODY4MjkzOWJkYiAgLi91cGRhdGVzL3dvcmtz
+aG9wMDUtMjAyMDA4MTctMTQyNjEzLnppcApkNTQ5ZTkwYTA2NTE3NzQ5NTA2ZDJjMmY4YTU4Mzk3
+YmFlNzQ1Mjg5ICAuL01ha2VmaWxlCg==
+200821-154611 make install
+200821-154611 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200821-154611 updater:  Directory: ./bin
+200821-154611 updater:  Directory: ./originals
+200821-154611 updater:  Directory: ./tests
+200821-154611 updater:  Directory: ./includes
+200821-154611 updater:  Directory: ./lib
+200821-154611 updater:  Directory: ./lib/cats
+200821-154611 updater:  Directory: ./lib/cats/bin
+200821-154611 updater:  Directory: ./lib/macos
+200821-154611 updater:  Directory: ./lib/macos/bin
+200821-154611 updater:  Directory: ./lib/centos8
+200821-154611 updater:  Directory: ./lib/centos8/bin
+200821-154611 updater:  Creating: ./tokeniser
+200821-154611 updater:  Creating: ./bin/tokeniser
+200821-154611 updater:  Creating: ./bin/diffc
+200821-154611 updater:  Creating: ./bin/diff-colours
+200821-154611 updater:  Creating: ./bin/Compiler-check.bash
+200821-154611 updater:  Creating: ./bin/run-tests
+200821-154611 updater:  Creating: updates/Makefile
+200821-154611 updater:  Creating: ./originals/tokeniser.cpp
+200821-154611 updater:  Creating: ./tests/MemoryTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/Average-Main.jack
+200821-154611 updater:  Creating: ./tests/1char-varops
+200821-154611 updater:  Creating: ./tests/ExplsSquare-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/MathTest-Main.jack
+200821-154611 updater:  Creating: ./tests/0keywords
+200821-154611 updater:  Creating: ./tests/ComplexArrays-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/StringTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/StringTest-Main.jack
+200821-154611 updater:  Creating: ./tests/1char-ops
+200821-154611 updater:  Creating: ./tests/Seven-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/MemoryTest-Main.jack
+200821-154611 updater:  Creating: ./tests/Address.asm
+200821-154611 updater:  Creating: ./tests/Numerical.asm
+200821-154611 updater:  Creating: ./tests/Square-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/Rect.asm
+200821-154611 updater:  Creating: ./tests/Jump.asm.tokens
+200821-154611 updater:  Creating: ./tests/ExplsSquare-Square.jack.tokens
+200821-154611 updater:  Creating: ./tests/ExplsSquare-Square.jack
+200821-154611 updater:  Creating: ./tests/1char-ops.tokens
+200821-154611 updater:  Creating: ./tests/Jump.asm
+200821-154611 updater:  Creating: ./tests/ConvertToBin-Main.jack
+200821-154611 updater:  Creating: ./tests/ScreenTest-Main.jack
+200821-154611 updater:  Creating: ./tests/0identifiers
+200821-154611 updater:  Creating: ./tests/Numerical.asm.tokens
+200821-154611 updater:  Creating: ./tests/Square-Main.jack
+200821-154611 updater:  Creating: ./tests/Add.asm
+200821-154611 updater:  Creating: ./tests/0numbers
+200821-154611 updater:  Creating: ./tests/MathTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/OutputTest-Main.jack
+200821-154611 updater:  Creating: ./tests/DestComp.asm.tokens
+200821-154611 updater:  Creating: ./tests/KeyboardTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/ExplsSquare-SquareGame.jack.tokens
+200821-154611 updater:  Creating: ./tests/SysTest-Main.jack
+200821-154611 updater:  Creating: ./tests/ArrayTest-Main.jack
+200821-154611 updater:  Creating: ./tests/Pong-PongGame.jack.tokens
+200821-154611 updater:  Creating: ./tests/0numbers.tokens
+200821-154611 updater:  Creating: ./tests/MaxL.asm.tokens
+200821-154611 updater:  Creating: ./tests/SysTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/Square-SquareGame.jack
+200821-154611 updater:  Creating: ./tests/1char-symbols
+200821-154611 updater:  Creating: ./tests/0identifiers.tokens
+200821-154611 updater:  Creating: ./tests/1char-symbols.tokens
+200821-154611 updater:  Creating: ./tests/Rect.asm.tokens
+200821-154611 updater:  Creating: ./tests/Pong-Bat.jack.tokens
+200821-154611 updater:  Creating: ./tests/0keywords.tokens
+200821-154611 updater:  Creating: ./tests/ExplsSquare-Main.jack
+200821-154611 updater:  Creating: ./tests/Square-Square.jack
+200821-154611 updater:  Creating: ./tests/RectL.asm.tokens
+200821-154611 updater:  Creating: ./tests/Comp.asm.tokens
+200821-154611 updater:  Creating: ./tests/Pong-Ball.jack
+200821-154611 updater:  Creating: ./tests/1char-varops.tokens
+200821-154611 updater:  Creating: ./tests/Average-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/Seven-Main.jack
+200821-154611 updater:  Creating: ./tests/Dest.asm
+200821-154611 updater:  Creating: ./tests/Pong-Main.jack
+200821-154611 updater:  Creating: ./tests/OutputTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/ComplexArrays-Main.jack
+200821-154611 updater:  Creating: ./tests/Pong-Bat.jack
+200821-154611 updater:  Creating: ./tests/ConvertToBin-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/ArrayTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/ScreenTest-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/2char-varops.tokens
+200821-154611 updater:  Creating: ./tests/DestComp.asm
+200821-154611 updater:  Creating: ./tests/Max.asm.tokens
+200821-154611 updater:  Creating: ./tests/Square-SquareGame.jack.tokens
+200821-154611 updater:  Creating: ./tests/RectL.asm
+200821-154611 updater:  Creating: ./tests/KeyboardTest-Main.jack
+200821-154611 updater:  Creating: ./tests/Pong-Main.jack.tokens
+200821-154611 updater:  Creating: ./tests/Square-Square.jack.tokens
+200821-154611 updater:  Creating: ./tests/Max.asm
+200821-154611 updater:  Creating: ./tests/Comp.asm
+200821-154611 updater:  Creating: ./tests/Add.asm.tokens
+200821-154611 updater:  Creating: ./tests/MaxL.asm
+200821-154611 updater:  Creating: ./tests/2char-varops
+200821-154611 updater:  Creating: ./tests/Pong-Ball.jack.tokens
+200821-154611 updater:  Creating: ./tests/Pong-PongGame.jack
+200821-154611 updater:  Creating: ./tests/ExplsSquare-SquareGame.jack
+200821-154611 updater:  Creating: ./tests/Address.asm.tokens
+200821-154611 updater:  Creating: ./tests/Dest.asm.tokens
+200821-154611 updater:  Creating: ./includes/tokeniser-extras.h
+200821-154611 updater:  Creating: ./includes/tokeniser.h
+200821-154611 updater:  Creating: ./includes/iobuffer.h
+200821-154611 updater:  Creating: ./lib/cats/bin/tokeniser
+200821-154611 updater:  Creating: ./lib/cats/bin/diff-colours
+200821-154611 updater:  Creating: ./lib/cats/lib.a
+200821-154611 updater:  Creating: ./lib/macos/bin/tokeniser
+200821-154611 updater:  Creating: ./lib/macos/bin/diff-colours
+200821-154611 updater:  Creating: ./lib/macos/lib.a
+200821-154611 updater:  Creating: ./lib/centos8/bin/tokeniser
+200821-154611 updater:  Creating: ./lib/centos8/bin/diff-colours
+200821-154611 updater:  Creating: ./lib/centos8/lib.a
+200821-154611 updater:  Creating: ./tokens.cpp
+200821-154611 updater:  Made tokeniser executable
+200821-154611 updater:  Made bin/Compiler-check.bash executable
+200821-154611 updater:  Made bin/diffc executable
+200821-154611 updater:  Made bin/diff-colours executable
+200821-154611 updater:  Made bin/run-tests executable
+200821-154611 updater:  Made bin/tokeniser executable
+200821-154611 updater:  Made lib/cats/bin/diff-colours executable
+200821-154611 updater:  Made lib/cats/bin/tokeniser executable
+200821-154611 updater:  Made lib/centos8/bin/diff-colours executable
+200821-154611 updater:  Made lib/centos8/bin/tokeniser executable
+200821-154611 updater:  Made lib/macos/bin/diff-colours executable
+200821-154611 updater:  Made lib/macos/bin/tokeniser executable
+200821-154611 updater:  Creating: tokeniser.cpp
+200821-154611 updater:  Updating: updates/README
+200821-154611 updater:  Update installed
+200821-154727 make 
+200821-154727 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-154616 make 
+200827-154616 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-063008 Modified: ODUzYjU1NDQwNzRmYmVjM2I4NDhlMTI4ZTkxMmYxOTdiOTVhN2RkNSAgLi91cGRhdGVzL01ha2Vm
+aWxlCjkwNGExN2E1MjQ0NjVmNmM1NDNhYTY5ZmI4MTAxMWY5NjIyNmEzZjMgIC4vdXBkYXRlcy93
+b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9iaW4vZGlmZi1jb2xvdXJzCjk0NTkzYWU3MzgzNGI1
+YzVjODRlM2M4YzRjYjk2N2IzMTkyNzcwZjggIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3
+LTE0MjYxMy9iaW4vcnVuLXRlc3RzCjcxNjY5YTFkODY1YTY2OGU3NmRiZWI2NGY4NjRjNGQ2NjM3
+YmVmMWYgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9iaW4vQ29tcGlsZXIt
+Y2hlY2suYmFzaApkMTc3ZTY2ZjJkMGFjZjU0MDJkODhiOWJjNzgzZWZiZTMwMzVmODljICAuL3Vw
+ZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvYmluL2RpZmZjCjkwNGExN2E1MjQ0NjVm
+NmM1NDNhYTY5ZmI4MTAxMWY5NjIyNmEzZjMgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3
+LTE0MjYxMy9iaW4vdG9rZW5pc2VyCjg1M2I1NTQ0MDc0ZmJlYzNiODQ4ZTEyOGU5MTJmMTk3Yjk1
+YTdkZDUgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9NYWtlZmlsZQoxNTE0
+ZmJkZTQ5YTBiNGMwMmIzMjRiMzg5ZDRhODExNmRmYTg0M2MyICAuL3VwZGF0ZXMvd29ya3Nob3Aw
+NS0yMDIwMDgxNy0xNDI2MTMvdXBkYXRlci5iYXNoCjNlN2JlZWQyOWU1MDdmYTk4NzU1YTlhYWNj
+OTkzYTFlMmE3MzIxNTMgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0
+cy9EZXN0LmFzbQo0YWQxNDI0MGY4NjMzNzc0YmZkODU2ZDM5MTZhMzNlNzkzNmM4MTkxICAuL3Vw
+ZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvMWNoYXItc3ltYm9scwpmZmJk
+MTc3MjEwYTk5MWZmOGJhZDE4MzU0N2JjYmUwODFlNGJmYTFiICAuL3VwZGF0ZXMvd29ya3Nob3Aw
+NS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvU3F1YXJlLVNxdWFyZUdhbWUuamFjawpmNTRkYWU1NTQ5
+ZjUyNDE1MTkxMTU0MzZlNWQxNGE2MmUzNzY3NGY0ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIw
+MDgxNy0xNDI2MTMvdGVzdHMvU2NyZWVuVGVzdC1NYWluLmphY2sudG9rZW5zCjE3YzI5MzY0YjU5
+NTBiZGJjYzg2NjY1OGIxMjUyZDlkM2NkMTJlMmUgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAw
+ODE3LTE0MjYxMy90ZXN0cy9TcXVhcmUtU3F1YXJlLmphY2sudG9rZW5zCjllNGJkOTU1YjcwMzkz
+NTZjYzZjMGExMWRjYzIyMmNlYjViMGQ5Y2IgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3
+LTE0MjYxMy90ZXN0cy9FeHBsc1NxdWFyZS1NYWluLmphY2sKOTIxYTdiNzI1ZWE4YTFjZWY1Y2U1
+YzZiNGNmM2NkOGJiOGQ5Njg1ZiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEz
+L3Rlc3RzLzBpZGVudGlmaWVycy50b2tlbnMKZWVmNmU1NTkzNjJjMTI0NWY3Y2U2ZWQzNmI4MDQ2
+N2M5NjAyOTI5YSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1Nx
+dWFyZS1TcXVhcmVHYW1lLmphY2sudG9rZW5zCjUyZjE2ZTE1NTk1ZTU2MmE3ZGU4YjYwYzYxMTQw
+OTUyZDhlMWExYjEgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy8x
+Y2hhci1vcHMKZjg3YWNlODE2NGM2Yzk1ZTlkMDRiNDEzYWM1MGViZmJhZGY3NDI4NyAgLi91cGRh
+dGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1BvbmctUG9uZ0dhbWUuamFjay50
+b2tlbnMKMjEyNDI4MDg2NmU1MGM1NDUyODQ0NTIzYzUwNjcyZjhhYjE2NjJiOCAgLi91cGRhdGVz
+L3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1BvbmctQmF0LmphY2sKODEwYWU1MTFj
+ZDU1NjJjNjQ2YzRjZDkyZTdjNzVlMjJkNjcxMWQ4OCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAy
+MDA4MTctMTQyNjEzL3Rlc3RzL0V4cGxzU3F1YXJlLVNxdWFyZS5qYWNrCjRiYjU0OGI4NDQ1Nzgz
+MDk2MzE1NzNlMzJhMzAyYTYwZGQzY2JjOTMgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3
+LTE0MjYxMy90ZXN0cy9Qb25nLUJhdC5qYWNrLnRva2Vucwo1ZWM2ZWFmYzFjMGI4NDEyYTI0MzA3
+OGRiMmJkZWVhMjJhMjNhMTBlICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvT3V0cHV0VGVzdC1NYWluLmphY2sKMjEyODc4NmE0Zjk2ODE2NTBiNjRkZjM1Mjk1MWM0
+YTc3YmFmMTNmOCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzLzFj
+aGFyLXZhcm9wcy50b2tlbnMKNTM2YjUyMzI3ZTQwOGI2ZTVjZTEwMDZlNjU3NDdkODJkYjdlNDQ4
+YiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzLzBudW1iZXJzCjI2
+YzYzYjM0ZmM3NWUzYzVkM2M5NjE0OTE1NGE5ZmFlNmU2YjRjYzIgIC4vdXBkYXRlcy93b3Jrc2hv
+cDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9NYXRoVGVzdC1NYWluLmphY2sudG9rZW5zCjJiODQ5
+OWJiZGMxZDQ0Mjc1ODhhNTk4MTkzMmY3Njk3MjA4OTU4MzQgIC4vdXBkYXRlcy93b3Jrc2hvcDA1
+LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9BZGRyZXNzLmFzbQpjYThmZmU5NDE3YTE4NWI2MTYyZTgz
+YjZhMGVjZWYxZGY4NmIxNzYwICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvU2V2ZW4tTWFpbi5qYWNrLnRva2Vucwo4ZGRlYzhkNjkyYjI0MWY5OWM1NjJkMTY0YzE0
+YzY1YmZkNzA3N2Q4ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMv
+Q29tcC5hc20udG9rZW5zCjFkZTNkN2U0NGRlNDYzMjY3OTcyOTA2ZjY2MGEzOWQwZmJjY2YzMmEg
+IC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9TcXVhcmUtTWFpbi5q
+YWNrLnRva2Vucwo4ODE4YWIzZjg3OWM1YzI4ZjIyOTM1MWQ3OTNjNjFmZmNmMGE5MjlhICAuL3Vw
+ZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvTWVtb3J5VGVzdC1NYWluLmph
+Y2sKZThkMGQyMDE1OWE5ZmE3MDNkZTdkOGU5ZTAyMzdkNmZiYmM1MzQyYSAgLi91cGRhdGVzL3dv
+cmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzLzBrZXl3b3Jkcy50b2tlbnMKNjdjMDRhYzdj
+OThkNjliZjE5ZDQ4MWQ4ODY0NDdmZGVjMWYyMDUzMiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAy
+MDA4MTctMTQyNjEzL3Rlc3RzL1N5c1Rlc3QtTWFpbi5qYWNrLnRva2Vucwo0YTk0ZGQyNDYwMWZi
+ZmU5OWU3NWQ2MmUxYmVhMWU0YWRlZjQ2NjkzICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgx
+Ny0xNDI2MTMvdGVzdHMvQXJyYXlUZXN0LU1haW4uamFjay50b2tlbnMKNmEzMTk3ZTI1OTg4M2M0
+OGU2OTkxZDZjZTBlZGRmNDI2ZWRhMmI3ZSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTct
+MTQyNjEzL3Rlc3RzL1N5c1Rlc3QtTWFpbi5qYWNrCjY4NzViMzdjYjM5M2ZmMmYyZjczNTgxNzA2
+MDAzMzI2Mjg2Mzg3N2QgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0
+cy9Db252ZXJ0VG9CaW4tTWFpbi5qYWNrLnRva2VucwowODAxNGU5Yjg0OGIxNGNlODM0Nzk4YmM2
+ODgxMjA0YjE1ODBlOGJmICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVz
+dHMvRGVzdC5hc20udG9rZW5zCmQxNGIxMTZkOWY4NmEwNmZlNWMwNjIwNjJiZTliNDIzNWU3NTIy
+ODYgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9NZW1vcnlUZXN0
+LU1haW4uamFjay50b2tlbnMKMGRhNjQ1ZGYzYTI3ZWYzZDkzYjMwYzdmNTk4NTg2Y2M5ZDYzMGQw
+NCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL0tleWJvYXJkVGVz
+dC1NYWluLmphY2sudG9rZW5zCjQ5Njc4ZDUxZDZjOTk0MGUyY2FlNTIyM2IzZGE4NjhjNzFmYmI0
+MjggIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9TdHJpbmdUZXN0
+LU1haW4uamFjawowMjEyNzU5ZDQwOGEwNmE4OGJlMzQ5OTVjZTIzNjBmNjAwOTU0OTQ4ICAuL3Vw
+ZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvUmVjdC5hc20udG9rZW5zCjc5
+NTY2ZDc2NzQyOTMzODQxYTAyMWZjMTI0MGM1ZDRmYjFjYTBhMjYgIC4vdXBkYXRlcy93b3Jrc2hv
+cDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9NYXhMLmFzbQoxODk4NGVjMTJlYTQyOGU2ZDMzYTMx
+NmI5OTBiNmFjMWFkNDI2Mjk1ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvMWNoYXItc3ltYm9scy50b2tlbnMKYWVjYzg2ZGFkNzRkYjUyYzU4MTVlMzBmZGNiY2U3
+MjA1NzMxYTI5NiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1Bv
+bmctUG9uZ0dhbWUuamFjawoyNTU2MDU2ODVjMzhhYzZiZmRmMWZjMWYxY2VlYjI3MzZiODQ1ZTM3
+ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvU3F1YXJlLU1haW4u
+amFjawo2ZTI4MTIzMmZhNDM1MDZlZTY2ZDMzNDJjYzU1NjZjMTlmZGY0MzljICAuL3VwZGF0ZXMv
+d29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvU2NyZWVuVGVzdC1NYWluLmphY2sKMWQ3
+OTM5NGY3MGJkODY1YzBiZGMzZjI5YzBhY2U1NDYxOTRhNmIxNCAgLi91cGRhdGVzL3dvcmtzaG9w
+MDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL091dHB1dFRlc3QtTWFpbi5qYWNrLnRva2Vucwo4M2U1
+YzU5YTUyYTk0MmNjNDQ5NWExN2VjYjk0MThlMjBjNmEyNWU2ICAuL3VwZGF0ZXMvd29ya3Nob3Aw
+NS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvS2V5Ym9hcmRUZXN0LU1haW4uamFjawo0ODE3MmZhMzI1
+Mzk3MTJjNDg5ZGYyZWY5NGM5YTM3MDg3ODIzMzZmICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIw
+MDgxNy0xNDI2MTMvdGVzdHMvUmVjdC5hc20KOWU2Yzc0OTAyM2ZkODhkZmZjZTBiMjMzODY4YWNl
+N2UyNTIxNmU2OCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1Bv
+bmctTWFpbi5qYWNrCmMxOTZmOGE0MGNkNWE1OWJjNWJlZTRlYTA3OThmNTEwZjQ3MjUzNjkgIC4v
+dXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9FeHBsc1NxdWFyZS1TcXVh
+cmUuamFjay50b2tlbnMKMWE4NGE2ZDA4ODYxZjFhNGRjMzliZTQ3NTEyMjNlYmY4OTZhMDI3OCAg
+Li91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL0V4cGxzU3F1YXJlLVNx
+dWFyZUdhbWUuamFjay50b2tlbnMKNmMwNjAxNThkOTQ1NzkyMDAyNWQyN2IxYWUxOTcwYzVmOWEx
+MjUyYyAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL0Rlc3RDb21w
+LmFzbQpkYTdiY2RhMTZjOTYyMzY0NWM1ZjAwOGExNzEzNGJhNGQyNzhhMzcyICAuL3VwZGF0ZXMv
+d29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvMmNoYXItdmFyb3BzLnRva2VucwozNDY0
+NTcxMjNhYTZjNGI1MWI0ODc5Yjc0OWNjYWVmZWU0YTVmM2IzICAuL3VwZGF0ZXMvd29ya3Nob3Aw
+NS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvUG9uZy1NYWluLmphY2sudG9rZW5zCjAyY2NlZjZiYWE2
+Yjg4NjA5NGUzMTljN2MzNGFlZDM3ZjdhMDUzYWEgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAw
+ODE3LTE0MjYxMy90ZXN0cy8wa2V5d29yZHMKZjk3MDdlMDcxNDFkYzQ0OTZmY2VkMDc5ZmIyZTA2
+Yjg5MjZiZDMyOCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL0Nv
+bXBsZXhBcnJheXMtTWFpbi5qYWNrLnRva2Vucwo1MjQxYzdiMWVmOGMwZjcwYjRiMWZiOGQ0MjVm
+MDRhYzE5MzNkN2VkICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMv
+QWRkcmVzcy5hc20udG9rZW5zCjBmYzVjMTNhNWMyODU4OWVlNTllNmQ1NGY1MGYxYjA1MzhiMmMx
+MzcgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9KdW1wLmFzbQpl
+NmY2YzJmMTdlOTJkNmQzNGE4YTI2Y2M2MGRlNDBjNDIzOTNkZjMxICAuL3VwZGF0ZXMvd29ya3No
+b3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvUG9uZy1CYWxsLmphY2sKZWRkYzQ5YWE1YzJiMTI4
+ZWI4Y2Y5ZDU0OTA5NTgyMWEyZjI5YmZjOSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTct
+MTQyNjEzL3Rlc3RzL1BvbmctQmFsbC5qYWNrLnRva2Vucwo4NDUwY2YwOWY1Mzc0Y2MyMDg1NTZk
+NTAxZmVmNzMxMGJjZTRiZGQ3ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvMG51bWJlcnMudG9rZW5zCjczZGIyN2RkYmYxYzI0ZTI2ODFiYzJhMDE3YjgwYThhYjA0
+N2UwOTEgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9TcXVhcmUt
+U3F1YXJlLmphY2sKM2I0Mjc5NmNmYTExNWE2NGJhM2FjMWI1YzVjYjc5NmQ1YWRkNGMyMCAgLi91
+cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL1N0cmluZ1Rlc3QtTWFpbi5q
+YWNrLnRva2Vucwo1NTI5ODA1YTI3NTYyYTE0MmU5ZmFmNWI5MTMxOTRmODU5N2Y4YjRkICAuL3Vw
+ZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvRGVzdENvbXAuYXNtLnRva2Vu
+cwpmMjk3YzJiM2VhODE1OTM2YzVkOWIyMDQ3NzExY2VlNTE0NDg0OTU0ICAuL3VwZGF0ZXMvd29y
+a3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvMWNoYXItb3BzLnRva2Vucwo5ZmJiZjY1Y2Yz
+OWNkMzgxMjE2MjM0NDQwZDZhMGJiYzJiMDM2MjE1ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIw
+MDgxNy0xNDI2MTMvdGVzdHMvUmVjdEwuYXNtLnRva2VucwphZjY2YjA1OWYzMzc2OTI1M2JhMDI3
+M2NhYjI3ZTU1NDdhMGVkMzVmICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvRXhwbHNTcXVhcmUtTWFpbi5qYWNrLnRva2VucwpkNzgwNzJlYWI3MzVhMjgwNDQwZDBj
+NTBkZDZiMjQyOWI4MjJlMGRiICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvMWNoYXItdmFyb3BzCjJiYzExY2NkYjhjMWIzY2U1NjRjM2E3MTVjMmRiNDc2NjA5OTkx
+MzggIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9BdmVyYWdlLU1h
+aW4uamFjawo5ZjcyM2NkYjhmMzU0NDkyM2JkMTAwOGViYzBiZGFmN2JmMjYyNzA1ICAuL3VwZGF0
+ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvQ29tcGxleEFycmF5cy1NYWluLmph
+Y2sKY2YyNmExMzMzMzgzMzQ5NDUzYjA2MDQwMWE3NDhiMWRlMTEzMGRhZCAgLi91cGRhdGVzL3dv
+cmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rlc3RzL01heC5hc20udG9rZW5zCjNlZTM2NjU3NTQy
+ZjRhMjM5NjRkMDE3ZWQzMTNjZTczMmIxMDEzNjggIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAw
+ODE3LTE0MjYxMy90ZXN0cy9TZXZlbi1NYWluLmphY2sKZDI5NjVkYmIyYjg2YjFmOTEwNjQzYjk4
+YzhhNzFjNTM4ZmI4YmMxYiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL3Rl
+c3RzL0V4cGxzU3F1YXJlLVNxdWFyZUdhbWUuamFjawpkN2Y5Zjc3Y2FlZmYwY2QwMzM5ZDk2NDFj
+Y2VhYjEwMDdiMDZmZjY3ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVz
+dHMvQXJyYXlUZXN0LU1haW4uamFjawpmNDJkNTdjNjE2NTgxNjQxNmNiMjY2M2E3ODA5ZTJkOWNj
+N2RlMTI0ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvMGlkZW50
+aWZpZXJzCmJhNTViODMwOGFmODFmM2U1YzMwNTcxMDYxMDY4NmMxOWUwNzQxMmMgIC4vdXBkYXRl
+cy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9BZGQuYXNtLnRva2VucwozMjNkY2I5
+ZTEzZWM0YTQxM2U4MjRjNTAyZDk1ZmY3OWViODhlYjliICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0y
+MDIwMDgxNy0xNDI2MTMvdGVzdHMvQWRkLmFzbQo2ZGQ3OTlhZjVhNjgxMDIxNDc5N2ExOGU0MmE2
+OWE0ZDUwYzM5ZGYwICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMv
+MmNoYXItdmFyb3BzCjg5NDk2MjVkMjgzNDc3MjM0ZjMwOTMxMDQ0NDVkYzhhNDIzZDA2Y2IgIC4v
+dXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9OdW1lcmljYWwuYXNtLnRv
+a2VucwoyYTk1M2MyNWEwZmE0M2MxMGIwMGQ4Y2ZjMWU2NmM0NGIwNTAxYjcxICAuL3VwZGF0ZXMv
+d29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvTWF0aFRlc3QtTWFpbi5qYWNrCmU0Zjcw
+YmRmNjg3YTMxNDU0Nzc3NjI2ZDUyMTlkYWY1ZGQ3ZGMwMDUgIC4vdXBkYXRlcy93b3Jrc2hvcDA1
+LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9KdW1wLmFzbS50b2tlbnMKM2I1NTcyZDgwYjBmMmU0NmY5
+NzlmNDdjN2ZkOWUwNjA2MWY1NzBkOSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQy
+NjEzL3Rlc3RzL0F2ZXJhZ2UtTWFpbi5qYWNrLnRva2VucwoxYTg1NWRkYzliNjQ1N2E4NDBkYjYz
+MTQ4ZTUwMDM0MzRhYWU4M2JjICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMv
+dGVzdHMvTWF4TC5hc20udG9rZW5zCjYxODg5YzgxNzg1NjViY2M3MzhlMDJmZDRkMTU3MDk5OTFh
+MzJmMTMgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9Db21wLmFz
+bQo4ZjI5MzEzNGJhYzg2Yzk0ZDgxMWIzNjI3NTNmZDg4ODM1NTI3YTEzICAuL3VwZGF0ZXMvd29y
+a3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvTWF4LmFzbQowMzY4YTkxMmEyNDlhMTg0Njk1
+Y2QwZTg2ZmFjZTBlMWMxMTI4NDdkICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2
+MTMvdGVzdHMvTnVtZXJpY2FsLmFzbQpiNDZkZGU1ZWE0ODUxYmJhNTVmNDJjMGJlODExMGVlZjdk
+Y2I3YzhmICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdGVzdHMvUmVjdEwu
+YXNtCmFmZWI2YzAzNTgwYmYzNGEzMTc2MTAyY2ZhNGE3OTA5MmJlNWVmMWQgIC4vdXBkYXRlcy93
+b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy90ZXN0cy9Db252ZXJ0VG9CaW4tTWFpbi5qYWNrCmE1
+NmMwN2VkZGYyNWQ4ZDBlYTBmNWIwMTdlNjUwZmI0MDc4ZmY0NWQgIC4vdXBkYXRlcy93b3Jrc2hv
+cDA1LTIwMjAwODE3LTE0MjYxMy9pbmNsdWRlcy90b2tlbmlzZXItZXh0cmFzLmgKYTdiNjJkMDUw
+MzBkZDFkOGQ3NzU1MDRlNzU4OTVjZGNlYjY4YWJmZiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAy
+MDA4MTctMTQyNjEzL2luY2x1ZGVzL2lvYnVmZmVyLmgKZTE1ZmEzMDI0MGU4YjM1ZTk2YzhhNzk1
+ZGVkNWQwODE1YTA1MjAyZCAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL2lu
+Y2x1ZGVzL3Rva2VuaXNlci5oCjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2
+NjAgIC4vdXBkYXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9pbnN0YWxsZXIuYmFzaApm
+ZDQzZGY3MzJhMTZkZGY0NGZlYjIyNjgyNjE5MmU3MWFlZTljNTUyICAuL3VwZGF0ZXMvd29ya3No
+b3AwNS0yMDIwMDgxNy0xNDI2MTMvdG9rZW5zLmNwcApkMmVhMmJmOTg4ODhmZGQ4OTI1MTA5YjM0
+YTBmOTI4YzM2NWFiZDkxICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvdG9r
+ZW5pc2VyCmQ0NGM4YTU2OGZhZTk3MzM3ZmY2OGYwM2Y5YWVhYzI3ZTUzMzU5YjQgIC4vdXBkYXRl
+cy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9saWIvbWFjb3MvYmluL2RpZmYtY29sb3Vycwox
+MjI4NTJlNDUwNTg2NWFmNDBiNjc4ZjhjZjVjZWMyYjZiODExODVlICAuL3VwZGF0ZXMvd29ya3No
+b3AwNS0yMDIwMDgxNy0xNDI2MTMvbGliL21hY29zL2Jpbi90b2tlbmlzZXIKZjQxODUzNTdjNTA5
+MGI4YjQ3MjM2YjY0ZmU5NjUwYTFjOGMyMzQ3YSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4
+MTctMTQyNjEzL2xpYi9tYWNvcy9saWIuYQpmNTAwZTExMWRjZDgxYTMxYTk0OWIyYjJlYzdkNjky
+YjMyM2E2M2M1ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvbGliL2NhdHMv
+YmluL2RpZmYtY29sb3VycwpkYWMzN2JmMWI5NTY4YTMwMmEzNGU0ZTFiNDM2NmE1NTMxNjM1OWE0
+ICAuL3VwZGF0ZXMvd29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvbGliL2NhdHMvYmluL3Rva2Vu
+aXNlcgpjZWE3NzI5MTMxNDZiNDU3YTEwZTNjNTNlODEwNDkzNWUxMTcxMTliICAuL3VwZGF0ZXMv
+d29ya3Nob3AwNS0yMDIwMDgxNy0xNDI2MTMvbGliL2NhdHMvbGliLmEKMmVkZjFkYWVkNDE1MzJk
+Mzc1ZTI5MWU5Yjk2Y2NlZjVlM2ZmYWY3YiAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTct
+MTQyNjEzL2xpYi9jZW50b3M4L2Jpbi9kaWZmLWNvbG91cnMKNWNiYWQxMTJkYzU0NWQ2MmQxZGU4
+ZmI5NGY3MWUzZmJjYjZiZWE4YyAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEz
+L2xpYi9jZW50b3M4L2Jpbi90b2tlbmlzZXIKNzdkOWYwYmQwOGQ4OGU5ZmRhZTVkNGIzYzdjMmQ5
+ZGM5MDM2NTg5NyAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzL2xpYi9jZW50
+b3M4L2xpYi5hCjI4OWJlNzgxZDM4OWY5NGZlMzhjNDE1ODFiMDEwZTA3NGUxMTMyNmMgIC4vdXBk
+YXRlcy93b3Jrc2hvcDA1LTIwMjAwODE3LTE0MjYxMy9vcmlnaW5hbHMvdG9rZW5pc2VyLmNwcAo2
+YzNmY2ZiOTcyY2QzZWYzN2YyZmZmMDA5ZjgyMjc4NjgyOTM5YmRiICAuL3VwZGF0ZXMvd29ya3No
+b3AwNS0yMDIwMDgxNy0xNDI2MTMuemlwCmM5MWJkY2M5ZWE1MGNlZjg1NTQ3MDA1YTdjZGM2NmUx
+NzcwMDI1ZTcgIC4vdXBkYXRlcy9SRUFETUUKZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4
+OTBhZmQ4MDcwOSAgLi91cGRhdGVzL3dvcmtzaG9wMDUtMjAyMDA4MTctMTQyNjEzLWluc3RhbGxl
+ZAo=
+200827-063008 make 
+200827-063008 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-063008 updater:  Made tokeniser executable
+200827-063008 updater:  Made bin/Compiler-check.bash executable
+200827-063008 updater:  Made bin/diff-colours executable
+200827-063008 updater:  Made bin/diffc executable
+200827-063008 updater:  Made bin/run-tests executable
+200827-063008 updater:  Made bin/tokeniser executable
+200827-063008 updater:  Made lib/cats/bin/diff-colours executable
+200827-063008 updater:  Made lib/cats/bin/tokeniser executable
+200827-063008 updater:  Made lib/centos8/bin/diff-colours executable
+200827-063008 updater:  Made lib/centos8/bin/tokeniser executable
+200827-063008 updater:  Made lib/macos/bin/diff-colours executable
+200827-063008 updater:  Made lib/macos/bin/tokeniser executable
+200827-065944 Modified: MWU1MGI1YjBhOWY5NjQ1Nzg5MzNkZjk4MzZkNGYwYWRjMTA3NmEzYSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-065944 make 
+200827-065944 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-070227 Modified: MjVhZTQ1YzA2MzllZjc2YjBlYjEwNjg3MTRkZDA0Y2NkNDMwM2E2MSAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-070227 make 
+200827-070227 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-070403 Modified: MzFlOTExMDE3ZWVlYWMxY2ZiZGM0MTY4MmZiYzYxMmVmMDZjZGFiOSAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-070403 make 
+200827-070403 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-070519 Modified: NzQyYjkwYWU0ODRhNDYyZjlhODVkMGUxYjg5YzljY2E4YzZjYzA0YSAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-070519 make 
+200827-070519 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-070557 Modified: OTRkOWYwMjNjYjM0NDJmOGU0ZTk1N2I3MWEwZDBlMTUzM2ExMGVjOSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-070557 make 
+200827-070557 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-071349 Modified: NGE4NWNlMzk1NTQ3ZWExYzEyOWU4MzIzNjkwMThkZTY1YTYyZGExZiAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-071349 make 
+200827-071349 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-073741 Modified: YjkzMTEyNDg4Y2VjODgyYmY4YjgwYzQ2Y2M2YjRlYTI4NmNkOTRjMSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-073741 make 
+200827-073741 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-074130 Modified: MGUzYzVkM2QyODVkZWEzYzI2YzUxNWI2ZWQ5ODg4ODlmN2E1Y2QwYSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-074130 make 
+200827-074130 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-074841 Modified: ZmYxNzRjN2MyODViNDM3NTE3NTEyYjQ0M2NhOWZjMDgyYTA2OWEyMSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-074841 make 
+200827-074841 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-075232 Modified: M2QwMGNmNDQzNjdkYmIxYmZhMmJmZjkyZGY1NWIyZmQ1NzBkOGVjNyAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-075232 make 
+200827-075232 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-075414 Modified: ZmYxNzRjN2MyODViNDM3NTE3NTEyYjQ0M2NhOWZjMDgyYTA2OWEyMSAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-075414 make 
+200827-075414 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-075645 Modified: ZDEyZmZmZDBmZmJhMThlMWIyZThjNjE2NGMzMGRlYWM3MjEyM2ZlMCAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-075645 make 
+200827-075645 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-075731 Modified: YzRhOWQxNmE2MjU5ZjhhMjM3ODYwZWRhMTk4ODIxODU0M2UzMGY5MCAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-075731 make 
+200827-075731 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-080333 Modified: ZTkyZWFmMTEzN2YyYTI0YzE4MjE1YzgxZmRhMzM5YzUxMmYxZjc3NiAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-080333 make 
+200827-080333 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-080939 Modified: ZDdjM2VlNTQzNWM5NjExMWZlMjdkZmFmY2FlYmFkMTQ4ZmY3OGQ3MSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-080939 make 
+200827-080939 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-081122 Modified: Yzc5NGFiMmNiNzIzYmVjZDhkMTBlNzQ5YTM4Y2M2ZmE3ZTg4ZjJiNCAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-081122 make 
+200827-081122 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-081327 Modified: NzYwMDNmYzAyOTM3MWIyYTQ3ODg0NjhhNGEzMTU2ZmNhODI3ZmUzNyAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-081327 make 
+200827-081327 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-081755 Modified: NzYwMDNmYzAyOTM3MWIyYTQ3ODg0NjhhNGEzMTU2ZmNhODI3ZmUzNyAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-081755 make 
+200827-081755 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082204 Modified: OWI3ZDYyYjg5YWRiZTQwNjRhZjBhZTdlYmJmNmZmZWVlZTYzNmYzMSAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-082204 make 
+200827-082204 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082217 Modified: NzYwMDNmYzAyOTM3MWIyYTQ3ODg0NjhhNGEzMTU2ZmNhODI3ZmUzNyAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-082217 make 
+200827-082217 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082404 Modified: Y2NjMWVjNzU1YTc3YzFiNDE5M2FmNWNjMjU0MjcxZTMxNGQ1MzBlOCAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-082404 make 
+200827-082404 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082439 Modified: ZmQ1ZTlmZTllNWRmOGFmMjkyMWRhNWY2NDU1MGIyNmUwZjI5MGI5NiAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-082439 make 
+200827-082439 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082611 Modified: Y2M4Njc3MDJhMzZiNTM3YmZlNWUxYWZjMTFkMGFhYmRjODk3NDRhOCAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-082611 make 
+200827-082611 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-082623 Modified: Y2QzM2ZkYmVjNzllNjUwOWYyYzQ4MDUxNTkzMmRmMDBjM2ZiNzYwNyAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-082623 make 
+200827-082623 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-083119 Modified: Nzc0ZTZiMjgxMzdiNTc1NTYzZGUwZTRlMTM2NjgwMjE5YmY1YjZkMyAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-083119 make 
+200827-083119 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-083154 Modified: NThiYWRlN2FjZDE2YTIxYjdjZmE0ODRiOTgwYmY5YWE5ZDE4ODU3ZSAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-083154 make 
+200827-083154 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-083223 Modified: NGE5MDU2ZGE0NjFkM2Q0N2RhMDVjNTk1MmNhMzdmMjNiMDRjZjBmMyAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-083223 make 
+200827-083223 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-083241 Modified: MzMwZmUxM2JiYTFiNzViOGI2MTY2MGZlMGJiMTQ3YTY1ZmU1YWUzOCAgLi90b2tlbmlzZXIuY3Bw
+CjBjNjgyMzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0
+YWxsZXIuYmFzaAo=
+200827-083241 make 
+200827-083241 SVN user: a1788848, repository path: 2020/s2/cs/workshop05
+200827-083311 Modified: MWM5NGFiOWIwMzcwZWUyZjdmNWUwMzM4NmE4ZjZiN2FkODNmYTk4YyAgLi90b2tlbmlzZXIuY3Bw
+Cg==
+200827-083311 make 
+200827-083311 SVN user: a1788848, repository path: 2020/s2/cs/workshop05

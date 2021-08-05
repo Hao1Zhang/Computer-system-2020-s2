@@ -1,0 +1,107 @@
+200807-143548 Modified: MGM2ODIzMDFhZDViZjIzMmFjYWZjNjQ0MDc1MDAxZjVmZTRmYTY2MCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCmQ4YjFhNDBkZDViNmM0ZmJmN2QwZGNiZTZjMzM1YmRlNWUyYmU1OWEgIC4vdXBk
+YXRlcy9wcm9qZWN0MDEtMjAyMDA3MjQtMTkzMjI4LnppcAo=
+200807-143548 make install
+200807-143548 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-143548 updater:  Directory: ./bin
+200807-143548 updater:  Directory: ./originals
+200807-143548 updater:  Creating: ./Xor.cmp
+200807-143548 updater:  Creating: ./Mux.tst
+200807-143548 updater:  Creating: ./Not16.tst
+200807-143548 updater:  Creating: ./DMux8Way.tst
+200807-143548 updater:  Creating: ./DMux4Way.tst
+200807-143548 updater:  Creating: ./Mux4Way16.tst
+200807-143548 updater:  Creating: ./And.cmp
+200807-143548 updater:  Creating: ./bin/run-tests
+200807-143548 updater:  Creating: ./DMux.tst
+200807-143548 updater:  Creating: updates/Makefile
+200807-143548 updater:  Creating: ./Not.tst
+200807-143548 updater:  Creating: ./originals/Mux.hdl
+200807-143548 updater:  Creating: ./originals/Not16.hdl
+200807-143548 updater:  Creating: ./originals/Mux4Way16.hdl
+200807-143548 updater:  Creating: ./originals/DMux4Way.hdl
+200807-143548 updater:  Creating: ./originals/DMux8Way.hdl
+200807-143548 updater:  Creating: ./originals/DMux.hdl
+200807-143548 updater:  Creating: ./originals/Mux8Way16.hdl
+200807-143548 updater:  Creating: ./originals/Not.hdl
+200807-143548 updater:  Creating: ./originals/Or16.hdl
+200807-143548 updater:  Creating: ./originals/Or8Way.hdl
+200807-143548 updater:  Creating: ./originals/Or.hdl
+200807-143548 updater:  Creating: ./originals/Mux16.hdl
+200807-143548 updater:  Creating: ./originals/And16.hdl
+200807-143548 updater:  Creating: ./originals/Xor.hdl
+200807-143548 updater:  Creating: ./originals/And.hdl
+200807-143548 updater:  Creating: ./Mux8Way16.tst
+200807-143548 updater:  Creating: ./Mux16.cmp
+200807-143548 updater:  Creating: ./And16.cmp
+200807-143548 updater:  Creating: ./Or16.tst
+200807-143548 updater:  Creating: ./Or.tst
+200807-143548 updater:  Creating: ./Or8Way.tst
+200807-143548 updater:  Creating: ./Mux8Way16.cmp
+200807-143548 updater:  Creating: ./Mux16.tst
+200807-143548 updater:  Creating: ./Not.cmp
+200807-143548 updater:  Creating: ./Or.cmp
+200807-143548 updater:  Creating: ./Or8Way.cmp
+200807-143548 updater:  Creating: ./Or16.cmp
+200807-143548 updater:  Creating: ./And16.tst
+200807-143548 updater:  Creating: ./Not16.cmp
+200807-143548 updater:  Creating: ./Xor.tst
+200807-143548 updater:  Creating: ./Mux.cmp
+200807-143548 updater:  Creating: ./DMux.cmp
+200807-143548 updater:  Creating: ./And.tst
+200807-143548 updater:  Creating: ./Mux4Way16.cmp
+200807-143548 updater:  Creating: ./DMux8Way.cmp
+200807-143548 updater:  Creating: ./DMux4Way.cmp
+200807-143548 updater:  Made bin/run-tests executable
+200807-143548 updater:  Creating: Mux.hdl
+200807-143548 updater:  Creating: Not16.hdl
+200807-143548 updater:  Creating: Mux4Way16.hdl
+200807-143548 updater:  Creating: DMux4Way.hdl
+200807-143548 updater:  Creating: DMux8Way.hdl
+200807-143548 updater:  Creating: DMux.hdl
+200807-143548 updater:  Creating: Mux8Way16.hdl
+200807-143548 updater:  Creating: Not.hdl
+200807-143548 updater:  Creating: Or16.hdl
+200807-143548 updater:  Creating: Or8Way.hdl
+200807-143548 updater:  Creating: Or.hdl
+200807-143548 updater:  Creating: Mux16.hdl
+200807-143548 updater:  Creating: And16.hdl
+200807-143548 updater:  Creating: Xor.hdl
+200807-143548 updater:  Creating: And.hdl
+200807-143548 updater:  Updating: updates/README
+200807-143548 updater:  Update installed
+200807-143950 make 
+200807-143950 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-144914 Modified: ODEzNjMwZjc0NzM1MmJmNTRmZTc1N2Q3ZmQ2NzBlNjcwMGRmZDE1NCAgLi9BbmQuaGRsCg==
+200807-144914 make 
+200807-144914 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-145258 Modified: NDI1NWYzOWJkNTdkOTcxMDcwYzUzMmIzYTdlMTRlYWQ1ZjY4Nzg0NSAgLi9ETXV4LmhkbAowYTMx
+NDY5ZDBmMWZjZjQwY2FjZTRhNWExZDhhMTA5YmVmMDE4Yjc3ICAuL0FuZDE2LmhkbAo=
+200807-145258 make 
+200807-145258 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-145718 Modified: NDI1NWYzOWJkNTdkOTcxMDcwYzUzMmIzYTdlMTRlYWQ1ZjY4Nzg0NSAgLi9ETXV4LmhkbAo=
+200807-145718 make 
+200807-145718 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-145954 Modified: MjhiODkyN2YyOTM3MDQ2ODNjM2IzMjU3NGI0Yzk0YzdmMTJjYTMwMyAgLi9ETXV4NFdheS5oZGwK
+200807-145954 make 
+200807-145954 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-151120 Modified: NjMyZTU2MzczNjJlZGQ5YjBkNjYzNGFlNWRlOGFhMmE1NTEwNjVjZCAgLi9ETXV4OFdheS5oZGwK
+200807-151120 make 
+200807-151120 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-154758 Modified: MTU4M2I1NmRiMTA4OWUwOGRjMDZlY2FhNGIxZDllOTJlY2E0ZGM2ZiAgLi9NdXguaGRsCjk0YTA4
+M2EwMjMwZjE5MzNmNWJmNGFjYzBlN2M1M2U4NzVlYjg1OWUgIC4vTm90MTYuaGRsCjQ1OGU3Mjkw
+MWJiNDhkYjU5ZDQ4MDJiMGRhOWU0ZjJhYTY5ZTJhZGYgIC4vTXV4NFdheTE2LmhkbAo3ZDJkNjkx
+MDk5ZTM3ZDEwMGNlMTE4MjIyYzU2MTRmMGMwOWYzZGNhICAuL011eDhXYXkxNi5oZGwKMjYyYTE4
+ZDhjNTUzMjAzY2E2MDBlZDJhYmI2MDk2MzAzODIxZDdjZSAgLi9Ob3QuaGRsCjU5YmFmZDQxMDc5
+ZjAwMjRmOWE5MjIzNmNlMTIzYzY4NWVhNGVmNmUgIC4vT3IxNi5oZGwKMWU5YjJiMzZiNDRiMWEz
+NzUxZjY4OWQ4MWEzM2I1M2FhODk2ZDc3YSAgLi9PcjhXYXkuaGRsCjhjNDk4NTk0MmYyYWI1NTY3
+NTE4YTk5ZTU0MWRjMWEwNmFmNzUwYTQgIC4vT3IuaGRsCjQ0OGEzZTUzYjZmODE3MjA0Mjg4MmUy
+ZGU4NDBhMzk4YTYzZGQ2YjMgIC4vTXV4MTYuaGRsCjk1MDc1ODMwOGZhN2M4NjE4NzZhNjk3Mjc4
+ODEwODJmZTM2MTNkZDMgIC4vWG9yLmhkbAo=
+200807-154758 make 
+200807-154758 SVN user: a1777315, repository path: 2020/s2/cs/project01
+200807-161258 make 
+200807-161258 /users/8/a1788848/Desktop/project01 is not a working copy!
+200807-161354 make 
+200807-161354 SVN user: a1788848, repository path: 2020/s2/cs/project01
+200807-161354 updater:  Made bin/run-tests executable

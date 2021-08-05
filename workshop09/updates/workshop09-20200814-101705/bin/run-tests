@@ -1,0 +1,165 @@
+#!/bin/bash
+# runs chosen tokeniser over test files or regenerates them
+# it assumes this directory is SOMEWHERE/bin
+# it assumes tests directory is SOMEWHERE/tests, ie ../tests
+# it assumes that the executable is in the parent directory SOMEWHERE/
+
+# display messages or hide them
+case $2 in
+quiet)
+    loud="quiet"
+    ;;
+loud)
+    loud="loud"
+    ;;
+*)
+    loud="loud"
+    ;;
+esac
+
+# work out relative path to tests directory
+THISPWD=`pwd`
+
+# cd to the bin directory - where this script is
+BINDIR=`dirname $0`
+cd "$BINDIR"
+BINPWD=`pwd`
+
+# find the parent directory name
+PARENTDIR=`dirname "${BINPWD}"`
+
+# cd to parent dir
+cd ".."
+TESTPWD=`pwd`
+
+# fix up pathnames to be displayed to the user
+if [ "$THISPWD" != "$TESTPWD" ] ; then
+    echo "Execute the following command first if you want to cut-paste the test commands:"
+    echo "cd ${TESTPWD}"
+    echo
+fi
+
+# check we have a tokeniser first
+#if [ ! -x "${tokeniser}" ] ; then
+#    echo Cannot find executable ${PARENTDIR}${tokeniser_path}
+#    exit -1
+#fi
+
+### PRETTY STUFF ###
+
+# construct the diff command to display
+if [ -x ../bin/diffc ] ; then
+    diffcmd=${PARENTDIR}bin/diffc
+else
+    # if no diffc command, just use tell students to use diff
+    diffcmd=diff
+fi
+
+
+# if using an xterm - use headings and colour coded test results
+if [ "${TERM:0:5}" == "xterm" -o "${TERM:0:2}" == "vt" ] ; then
+    colorboldblack="\x1b[1;7;30m"
+    colorboldgreen="\x1b[1;7;32m"
+    colorboldred="\x1b[1;7;31m"
+    undocolor="\x1b[0m"
+else
+    colorboldblack=
+    colorboldgreen=
+    colorboldred=
+    undocolor=
+fi
+
+# nullglob is set so nothing runs if there are no test files
+shopt -s nullglob
+
+# run a Jack program against its test inputs and outputs
+run_jack_program()
+{
+    program="${1}"
+
+    # if the directory is not there - do not bother
+    if [ ! -d "${program}" ] ; then return ; fi
+
+    echo
+    echo "Testing program: ${program}"
+    cd "${program}"
+
+    # set test flag to yes, only change on errors
+    testok="yes"
+
+    # check we have at least Main.jack
+    if [ ! -f Main.jack ] ; then
+        testok="no"
+        echo "***** Error: cannot find Main.jack"
+        return
+    fi
+
+    # compile everything in one go
+    if JackCompiler.sh > test-output 2> test-errors ; then
+        if [ -s test-errors ] ; then
+            testok="no"
+            echo "***** Errors attempting to compile program"
+            cat test-output
+            cat test-errors
+            echo "-----"
+        else
+            echo "Program compiles"
+        fi
+    else
+        testok="no"
+        echo "***** Errors attempting to compile program"
+        cat test-output
+        cat test-errors
+        echo "-----"
+    fi
+    rm -f test-output test-errors
+
+    # stop on error
+    if [ "${testok}" ==  "no" ] ; then return ; fi
+
+    # testok gets set to no until we find at least one test
+    testok="no"
+
+    # now run all the tests we planted in the program's directory
+    for test_in in test[0-9][0-9].in ; do
+
+        # skip test if matching test-out is missing
+        test_out="${test_in%%.in}.out"
+        if [ "${test_in}.out" == "${test_out}" -o ! -f "${test_out}" ] ; then continue ; fi
+
+        # set testok - set back to no if the test fails
+        testok="yes"
+        echo
+        echo "Test input file:"
+        cat "${test_in}"
+        echo "-----"
+
+        # run the program and collect output
+        VMEmulator.sh runAll.txt < "${test_in}" > actual-output 2>&1
+
+        # now check for diffs
+        if diff actual-output "${test_out}" > /dev/null 2>&1 ; then
+            echo "Success - the correct output was produced!"
+            echo
+        else
+            testok="no"
+            echo "***** Errors: output is not what was expected:"
+            echo "Expected output:"
+            cat "${test_out}"
+            echo "-----"
+
+            echo "Actual output:"
+            cat actual-output
+            echo "-----"
+        fi
+        rm -f actual-output
+
+        # return on first error
+        if [ "${testok}" == "no" ] ; then return ; fi
+    done
+}
+
+# run all tst scripts
+for input in HelloWorld Sum Average SDev ; do
+    (run_jack_program ${input})
+done

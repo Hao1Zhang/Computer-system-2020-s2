@@ -1,0 +1,56 @@
+200903-111528 Modified: ZGViZGJkNjVkMDhlMzdlYWVmMjc5OTJjMDcwZjlmNmM2NjZjOThjOCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjYwZGI1NDhmMGJiMTFkNWFkZjUwZmQ4OTg2MTcxNWFjOTNmOGI4ZjYgIC4vdXBk
+YXRlcy93b3Jrc2hvcDA2LTIwMjAwODI4LTEyMjkzOS56aXAKZDU0OWU5MGEwNjUxNzc0OTUwNmQy
+YzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQo=
+200903-111528 make install
+200903-111528 SVN user: a1788848, repository path: 2020/s2/cs/workshop06
+200903-111528 updater:  Directory: ./bin
+200903-111528 updater:  Directory: ./originals
+200903-111528 updater:  Creating: ./question11.cmp
+200903-111528 updater:  Creating: ./question01.asm
+200903-111528 updater:  Creating: ./question10.cmp
+200903-111528 updater:  Creating: ./question06.cmp
+200903-111528 updater:  Creating: ./question07.cmp
+200903-111528 updater:  Creating: ./question08.tst
+200903-111528 updater:  Creating: ./question09.tst
+200903-111528 updater:  Creating: ./question05.asm
+200903-111528 updater:  Creating: ./bin/run-tests
+200903-111528 updater:  Creating: ./question04.asm
+200903-111528 updater:  Creating: updates/Makefile
+200903-111528 updater:  Creating: ./originals/question03.txt
+200903-111528 updater:  Creating: ./originals/question06.asm
+200903-111528 updater:  Creating: ./originals/question07.asm
+200903-111528 updater:  Creating: ./originals/question11.asm
+200903-111528 updater:  Creating: ./originals/question10.asm
+200903-111528 updater:  Creating: ./originals/answer05.hack
+200903-111528 updater:  Creating: ./originals/answer04.hack
+200903-111528 updater:  Creating: ./originals/question09.asm
+200903-111528 updater:  Creating: ./originals/question08.asm
+200903-111528 updater:  Creating: ./question07.tst
+200903-111528 updater:  Creating: ./question06.tst
+200903-111528 updater:  Creating: ./question10.tst
+200903-111528 updater:  Creating: ./question11.tst
+200903-111528 updater:  Creating: ./question09.cmp
+200903-111528 updater:  Creating: ./question08.cmp
+200903-111528 updater:  Made question01.asm executable
+200903-111528 updater:  Made question04.asm executable
+200903-111528 updater:  Made question05.asm executable
+200903-111528 updater:  Made bin/run-tests executable
+200903-111528 updater:  Creating: question03.txt
+200903-111528 updater:  Creating: question06.asm
+200903-111528 updater:  Creating: question07.asm
+200903-111528 updater:  Creating: question11.asm
+200903-111528 updater:  Creating: question10.asm
+200903-111528 updater:  Creating: answer05.hack
+200903-111528 updater:  Creating: answer04.hack
+200903-111528 updater:  Creating: question09.asm
+200903-111528 updater:  Creating: question08.asm
+200903-111528 updater:  Updating: updates/README
+200903-111528 updater:  Update installed
+200903-115425 Modified: M2QwOWEzNWRmMzA4MTI3YTIwNjE2OGJmNTMwZTRmZTQ5ZmZmNjBlYyAgLi9xdWVzdGlvbjAzLnR4
+dAphNzNkNzkwMjZhZTVmZDBkZGFmNjQxNDZiYTRkYWZjYmFmODVmY2MxICAuL2Fuc3dlcjA0Lmhh
+Y2sKNzFlODZmNGY5MDIyODNkNWEzZjZhZDNmODBkNDFlODFkNzMyZjRjMCAgLi9xdWVzdGlvbjA0
+LmhhY2sKOGQwNjQzNmMzM2EzMDg2MjU5ZjJmMWNjYWYwMzQyNTcwN2VlZmYxNyAgLi9hbnN3ZXIw
+NC5oYWNrfgo=
+200903-115425 make 
+200903-115425 SVN user: a1788848, repository path: 2020/s2/cs/workshop06

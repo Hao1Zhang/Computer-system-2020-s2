@@ -1,0 +1,35 @@
+200813-130656 Modified: ZGViZGJkNjVkMDhlMzdlYWVmMjc5OTJjMDcwZjlmNmM2NjZjOThjOCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCmI1ZjEzNzEyYzlkODY1OGUzNWRjZjRhMjU5YjA4YmY4YWVjMDM4MzggIC4vdXBk
+YXRlcy9wcm9qZWN0MDItMjAyMDA4MDYtMTAxNTA0LnppcApkNTQ5ZTkwYTA2NTE3NzQ5NTA2ZDJj
+MmY4YTU4Mzk3YmFlNzQ1Mjg5ICAuL01ha2VmaWxlCg==
+200813-130656 make install
+200813-130656 SVN user: a1788848, repository path: 2020/s2/cs/project02
+200813-130656 updater:  Directory: ./bin
+200813-130656 updater:  Directory: ./originals
+200813-130656 updater:  Creating: ./HalfAdder.tst
+200813-130656 updater:  Creating: ./ALU.tst
+200813-130656 updater:  Creating: ./Inc16.cmp
+200813-130656 updater:  Creating: ./bin/run-tests
+200813-130656 updater:  Creating: ./Add16.cmp
+200813-130656 updater:  Creating: ./FullAdder.cmp
+200813-130656 updater:  Creating: updates/Makefile
+200813-130656 updater:  Creating: ./ALU-nostat.tst
+200813-130656 updater:  Creating: ./originals/HalfAdder.hdl
+200813-130656 updater:  Creating: ./originals/ALU.hdl
+200813-130656 updater:  Creating: ./originals/FullAdder.hdl
+200813-130656 updater:  Creating: ./originals/Inc16.hdl
+200813-130656 updater:  Creating: ./originals/Add16.hdl
+200813-130656 updater:  Creating: ./ALU-nostat.cmp
+200813-130656 updater:  Creating: ./FullAdder.tst
+200813-130656 updater:  Creating: ./ALU.cmp
+200813-130656 updater:  Creating: ./HalfAdder.cmp
+200813-130656 updater:  Creating: ./Add16.tst
+200813-130656 updater:  Creating: ./Inc16.tst
+200813-130656 updater:  Made bin/run-tests executable
+200813-130656 updater:  Creating: HalfAdder.hdl
+200813-130656 updater:  Creating: ALU.hdl
+200813-130656 updater:  Creating: FullAdder.hdl
+200813-130656 updater:  Creating: Inc16.hdl
+200813-130656 updater:  Creating: Add16.hdl
+200813-130656 updater:  Updating: updates/README
+200813-130656 updater:  Update installed

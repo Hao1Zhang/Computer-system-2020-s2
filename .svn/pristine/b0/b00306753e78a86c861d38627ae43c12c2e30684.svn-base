@@ -1,0 +1,739 @@
+201013-141403 Modified: ZmEyOTNiYjAwYmJjOGYxOTJjMDAwODAwYjk5MjQ0ZDdiYzBmNzc0YSAgLi91cGRhdGVzL2Fzc2ln
+bm1lbnQzLTIwMjAxMDA1LTExMzIwNS56aXAK
+201013-141403 make install
+201013-141403 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-141515 make install
+201013-141515 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-141515 updater:  Directory: ./bin
+201013-141515 updater:  Directory: ./originals
+201013-141515 updater:  Directory: ./tests
+201013-141515 updater:  Directory: ./tests/03
+201013-141515 updater:  Directory: ./tests/04
+201013-141515 updater:  Directory: ./tests/05
+201013-141515 updater:  Directory: ./tests/02
+201013-141515 updater:  Directory: ./tests/ComplexA
+201013-141515 updater:  Directory: ./tests/Square
+201013-141515 updater:  Directory: ./tests/20
+201013-141515 updater:  Directory: ./tests/18
+201013-141515 updater:  Directory: ./tests/Minint
+201013-141515 updater:  Directory: ./tests/11
+201013-141515 updater:  Directory: ./tests/16
+201013-141515 updater:  Directory: ./tests/17
+201013-141515 updater:  Directory: ./tests/10
+201013-141515 updater:  Directory: ./tests/19
+201013-141515 updater:  Directory: ./tests/ArrayTst
+201013-141515 updater:  Directory: ./tests/07
+201013-141515 updater:  Directory: ./tests/09
+201013-141515 updater:  Directory: ./tests/Pong
+201013-141515 updater:  Directory: ./tests/08
+201013-141515 updater:  Directory: ./tests/01
+201013-141515 updater:  Directory: ./tests/06
+201013-141515 updater:  Directory: ./tests/Seven
+201013-141515 updater:  Directory: ./tests/ConvertB
+201013-141515 updater:  Directory: ./tests/ElSquare
+201013-141515 updater:  Directory: ./tests/15
+201013-141515 updater:  Directory: ./tests/12
+201013-141515 updater:  Directory: ./tests/Average
+201013-141515 updater:  Directory: ./tests/13
+201013-141515 updater:  Directory: ./tests/14
+201013-141515 updater:  Directory: ./includes
+201013-141515 updater:  Directory: ./lib
+201013-141515 updater:  Directory: ./lib/cats
+201013-141515 updater:  Directory: ./lib/cats/bin
+201013-141515 updater:  Directory: ./lib/macos
+201013-141515 updater:  Directory: ./lib/macos/bin
+201013-141515 updater:  Directory: ./lib/centos8
+201013-141515 updater:  Directory: ./lib/centos8/bin
+201013-141515 updater:  Creating: ./lint
+201013-141515 updater:  Creating: ./bin/lint
+201013-141515 updater:  Creating: ./bin/diffc
+201013-141515 updater:  Creating: ./bin/diff-colours
+201013-141515 updater:  Creating: ./bin/optimiser-r
+201013-141515 updater:  Creating: ./bin/parser
+201013-141515 updater:  Creating: ./bin/codegen
+201013-141515 updater:  Creating: ./bin/Compiler-check.bash
+201013-141515 updater:  Creating: ./bin/pretty
+201013-141515 updater:  Creating: ./bin/run-tests
+201013-141515 updater:  Creating: ./bin/tokens
+201013-141515 updater:  Creating: ./optimiser-r
+201013-141515 updater:  Creating: updates/Makefile
+201013-141515 updater:  Creating: ./originals/optimiser-r.cpp
+201013-141515 updater:  Creating: ./originals/lint.cpp
+201013-141515 updater:  Creating: ./originals/codegen.cpp
+201013-141515 updater:  Creating: ./originals/pretty.cpp
+201013-141515 updater:  Creating: ./originals/parser.cpp
+201013-141515 updater:  Creating: ./tests/03/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/03/Main.jack
+201013-141515 updater:  Creating: ./tests/03/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/03/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/03/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/04/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/04/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/04/Main.jack
+201013-141515 updater:  Creating: ./tests/04/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/04/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/04/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/05/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/05/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/05/Main.jack
+201013-141515 updater:  Creating: ./tests/05/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/05/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/05/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/02/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/02/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/02/Main.jack
+201013-141515 updater:  Creating: ./tests/02/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/02/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/02/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ComplexA/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ComplexA/Main.jack
+201013-141515 updater:  Creating: ./tests/ComplexA/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/ComplexA/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ComplexA/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Square/SquareGame.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Square/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Square/Square.jack
+201013-141515 updater:  Creating: ./tests/Square/SquareGame.jack
+201013-141515 updater:  Creating: ./tests/Square/SquareGame.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Square/Square.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Square/Main.jack
+201013-141515 updater:  Creating: ./tests/Square/Square.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Square/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Square/SquareGame.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Square/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Square/SquareGame.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Square/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Square/Square.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Square/Square.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/20/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/20/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/20/Main.jack
+201013-141515 updater:  Creating: ./tests/20/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/20/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/20/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/18/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/18/Main.jack
+201013-141515 updater:  Creating: ./tests/18/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/18/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/18/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Minint/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Minint/Main.jack
+201013-141515 updater:  Creating: ./tests/Minint/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Minint/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Minint/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/11/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/11/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/11/Main.jack
+201013-141515 updater:  Creating: ./tests/11/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/11/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/11/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/16/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/16/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/16/Main.jack
+201013-141515 updater:  Creating: ./tests/16/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/16/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/16/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/17/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/17/Main.jack
+201013-141515 updater:  Creating: ./tests/17/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/17/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/17/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/10/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/10/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/10/Main.jack
+201013-141515 updater:  Creating: ./tests/10/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/10/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/10/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/19/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/19/Main.jack
+201013-141515 updater:  Creating: ./tests/19/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/19/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/19/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ArrayTst/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ArrayTst/Main.jack
+201013-141515 updater:  Creating: ./tests/ArrayTst/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/ArrayTst/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ArrayTst/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/07/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/07/Main.jack
+201013-141515 updater:  Creating: ./tests/07/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/07/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/07/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/09/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/09/Main.jack
+201013-141515 updater:  Creating: ./tests/09/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/09/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/09/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Pong/Bat.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Pong/Ball.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Pong/Ball.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Pong/Ball.jack
+201013-141515 updater:  Creating: ./tests/Pong/Ball.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Ball.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Pong/PongGame.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Pong/Main.jack
+201013-141515 updater:  Creating: ./tests/Pong/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Bat.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Bat.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Pong/PongGame.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/PongGame.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Pong/PongGame.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/PongGame.jack
+201013-141515 updater:  Creating: ./tests/Pong/Bat.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Pong/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Pong/Bat.jack
+201013-141515 updater:  Creating: ./tests/08/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/08/Main.jack
+201013-141515 updater:  Creating: ./tests/08/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/08/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/08/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/01/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/01/Main.jack
+201013-141515 updater:  Creating: ./tests/01/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/01/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/01/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/06/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/06/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/06/Main.jack
+201013-141515 updater:  Creating: ./tests/06/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/06/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/06/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/Seven/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Seven/Main.jack
+201013-141515 updater:  Creating: ./tests/Seven/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Seven/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Seven/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack.parser.opt-r.Pxml
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ConvertB/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ElSquare/SquareGame.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/ElSquare/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ElSquare/Square.jack
+201013-141515 updater:  Creating: ./tests/ElSquare/SquareGame.jack
+201013-141515 updater:  Creating: ./tests/ElSquare/SquareGame.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ElSquare/Square.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ElSquare/Main.jack
+201013-141515 updater:  Creating: ./tests/ElSquare/Square.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ElSquare/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/ElSquare/SquareGame.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/ElSquare/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ElSquare/SquareGame.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/ElSquare/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ElSquare/Square.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/ElSquare/Square.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/15/Main.jack
+201013-141515 updater:  Creating: ./tests/15/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/12/Main.jack
+201013-141515 updater:  Creating: ./tests/12/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Average/Main.jack.parser.codegen.Cvm
+201013-141515 updater:  Creating: ./tests/Average/Main.jack
+201013-141515 updater:  Creating: ./tests/Average/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/Average/Main.jack.parser.lint.Pxml
+201013-141515 updater:  Creating: ./tests/Average/Main.jack.parser.pretty.Pjack
+201013-141515 updater:  Creating: ./tests/13/Main.jack
+201013-141515 updater:  Creating: ./tests/13/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./tests/14/Main.jack
+201013-141515 updater:  Creating: ./tests/14/Main.jack.parser.Pxml
+201013-141515 updater:  Creating: ./includes/symbols.h
+201013-141515 updater:  Creating: ./includes/tokeniser.h
+201013-141515 updater:  Creating: ./includes/iobuffer.h
+201013-141515 updater:  Creating: ./includes/abstract-syntax-tree.h
+201013-141515 updater:  Creating: ./parser
+201013-141515 updater:  Creating: ./codegen
+201013-141515 updater:  Creating: ./lib/cats/bin/lint
+201013-141515 updater:  Creating: ./lib/cats/bin/diff-colours
+201013-141515 updater:  Creating: ./lib/cats/bin/optimiser-r
+201013-141515 updater:  Creating: ./lib/cats/bin/parser
+201013-141515 updater:  Creating: ./lib/cats/bin/codegen
+201013-141515 updater:  Creating: ./lib/cats/bin/pretty
+201013-141515 updater:  Creating: ./lib/cats/bin/tokens
+201013-141515 updater:  Creating: ./lib/cats/lib.a
+201013-141515 updater:  Creating: ./lib/macos/bin/lint
+201013-141515 updater:  Creating: ./lib/macos/bin/diff-colours
+201013-141515 updater:  Creating: ./lib/macos/bin/optimiser-r
+201013-141515 updater:  Creating: ./lib/macos/bin/parser
+201013-141515 updater:  Creating: ./lib/macos/bin/codegen
+201013-141515 updater:  Creating: ./lib/macos/bin/pretty
+201013-141515 updater:  Creating: ./lib/macos/bin/tokens
+201013-141515 updater:  Creating: ./lib/macos/lib.a
+201013-141515 updater:  Creating: ./lib/centos8/bin/lint
+201013-141515 updater:  Creating: ./lib/centos8/bin/diff-colours
+201013-141515 updater:  Creating: ./lib/centos8/bin/optimiser-r
+201013-141515 updater:  Creating: ./lib/centos8/bin/parser
+201013-141515 updater:  Creating: ./lib/centos8/bin/codegen
+201013-141515 updater:  Creating: ./lib/centos8/bin/pretty
+201013-141515 updater:  Creating: ./lib/centos8/bin/tokens
+201013-141515 updater:  Creating: ./lib/centos8/lib.a
+201013-141515 updater:  Creating: ./pretty
+201013-141515 updater:  Made codegen executable
+201013-141515 updater:  Made lint executable
+201013-141515 updater:  Made optimiser-r executable
+201013-141515 updater:  Made parser executable
+201013-141515 updater:  Made pretty executable
+201013-141515 updater:  Made bin/codegen executable
+201013-141515 updater:  Made bin/Compiler-check.bash executable
+201013-141515 updater:  Made bin/diffc executable
+201013-141515 updater:  Made bin/diff-colours executable
+201013-141515 updater:  Made bin/lint executable
+201013-141515 updater:  Made bin/optimiser-r executable
+201013-141515 updater:  Made bin/parser executable
+201013-141515 updater:  Made bin/pretty executable
+201013-141515 updater:  Made bin/run-tests executable
+201013-141515 updater:  Made bin/tokens executable
+201013-141515 updater:  Made lib/cats/bin/codegen executable
+201013-141515 updater:  Made lib/cats/bin/diff-colours executable
+201013-141515 updater:  Made lib/cats/bin/lint executable
+201013-141515 updater:  Made lib/cats/bin/optimiser-r executable
+201013-141515 updater:  Made lib/cats/bin/parser executable
+201013-141515 updater:  Made lib/cats/bin/pretty executable
+201013-141515 updater:  Made lib/cats/bin/tokens executable
+201013-141515 updater:  Made lib/centos8/bin/codegen executable
+201013-141515 updater:  Made lib/centos8/bin/diff-colours executable
+201013-141515 updater:  Made lib/centos8/bin/lint executable
+201013-141515 updater:  Made lib/centos8/bin/optimiser-r executable
+201013-141515 updater:  Made lib/centos8/bin/parser executable
+201013-141515 updater:  Made lib/centos8/bin/pretty executable
+201013-141515 updater:  Made lib/centos8/bin/tokens executable
+201013-141515 updater:  Made lib/macos/bin/codegen executable
+201013-141515 updater:  Made lib/macos/bin/diff-colours executable
+201013-141515 updater:  Made lib/macos/bin/lint executable
+201013-141515 updater:  Made lib/macos/bin/optimiser-r executable
+201013-141515 updater:  Made lib/macos/bin/parser executable
+201013-141515 updater:  Made lib/macos/bin/pretty executable
+201013-141515 updater:  Made lib/macos/bin/tokens executable
+201013-141515 updater:  Creating: optimiser-r.cpp
+201013-141515 updater:  Creating: lint.cpp
+201013-141515 updater:  Creating: codegen.cpp
+201013-141515 updater:  Creating: pretty.cpp
+201013-141515 updater:  Creating: parser.cpp
+201013-141515 updater:  Updating: updates/README
+201013-141515 updater:  Update installed
+201013-143800 make 
+201013-143800 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-164425 Modified: MDJjM2JjZGJmYTIzN2ZjYTY3YWFhYmM2MWRmMzczZTUwM2MzM2YyZCAgLi9wYXJzZXIuY3BwCg==
+201013-164425 make parser
+201013-164425 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-164748 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmM3Y2ZkZmY2N2JhZmJiODU2MzMzMzQ4NzVkYWE3OTY4ZjEyMzRkZTIgIC4vcGFyc2VyLmNwcAo=
+201013-164748 make parser
+201013-164748 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-165447 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjFmOGJmOTYyODcyNTVmNmQzMjg2ODMxYzhiM2RmYmJiOTVlNjkzOWYgIC4vcGFyc2VyLmNwcAo=
+201013-165447 make parser
+201013-165447 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-170137 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjYwYzlhMmFiZTAzNjBiYjNiYTczNGQxODQyY2E3MTE2ZmMwZWIxMDkgIC4vcGFyc2VyLmNwcAo=
+201013-170137 make parser
+201013-170137 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-170546 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjZmN2U1YTEwODBkMGExZDA1M2RlZjUxMTZkZGU1NDVkYjJlYzQ1NjggIC4vcGFyc2VyLmNwcAo=
+201013-170546 make parser
+201013-170546 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-170617 make test-parser
+201013-170617 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175128 Modified: MjVlMjMyMjc1ZTI4MjVlOTg5ZGRkNTM4ZmQ4YTU4MzE0MTE2MzZhNyAgLi9wYXJzZXIuY3BwCg==
+201013-175128 make parser
+201013-175128 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175229 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjVjYTYyNmQ2ODhkMmExZDU4MmNkNzM0MTQwYjJjNWRjZjc2ZTk5MjUgIC4vcGFyc2VyLmNwcAo=
+201013-175229 make 
+201013-175229 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175237 make parser
+201013-175237 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175327 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCg==
+201013-175327 make parser
+201013-175327 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175354 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjA5YTA0MTJjNmI1NjU0MjQ5M2Q1ZTBjOThiMGZkNWJmMDM3NjM5ZDQgIC4vcGFyc2VyLmNwcAo=
+201013-175354 make parser
+201013-175354 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201013-175425 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjI0ZDg0NDc1ZjgxOTdiODBkNmExMzkyZjUxNjI0NTY2MzQ1N2YxNWMgIC4vcGFyc2VyLmNwcAo=
+201013-175425 make parser
+201013-175425 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-145856 Modified: ODMyMGE3OGQxNDFjNzg3NjVlZDU3NTFjYjBiODk2MmQzM2I1N2YzYSAgLi9wYXJzZXIuY3BwCmRhMzlhM2VlNWU2YjRiMGQzMjU1YmZlZjk1NjAxODkwYWZkODA3MDkgIC4vLlJoaXN0b3J5Cg==
+201014-145856 make parser
+201014-145856 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-151348 Modified: MGRjMzAzYThiMTNmYjVmNDg2YjlhMTAzOTg0NDQzNGI1ZjAzZjYwYSAgLi9wYXJzZXIuY3BwCg==
+201014-151348 make parser
+201014-151348 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-151649 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjkzOWQyOWI3ZGM4YjQ4ZTk0NGFiMTVkYzM0OTY0MGM3YTVhMzAwYjEgIC4vcGFyc2VyLmNwcAo=
+201014-151649 make parser
+201014-151649 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-152219 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCg==
+201014-152219 make parser
+201014-152219 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-152537 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmQzODM4NGFiMzQzZjg0YWU4N2IyYmRlNDAxZTVmNGI2Zjk2ZjU5ZTAgIC4vcGFyc2VyLmNwcAo=
+201014-152537 make parser
+201014-152537 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-152648 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmQzODM4NGFiMzQzZjg0YWU4N2IyYmRlNDAxZTVmNGI2Zjk2ZjU5ZTAgIC4vcGFyc2VyLmNwcAo=
+201014-152648 make parser
+201014-152648 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-174720 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjdhN2NkOTEzNWQxMzcxZjgyZDBiNWQ3ZjU3NzhhODk1YmU4YzUyZDQgIC4vcGFyc2VyLmNwcAo=
+201014-174720 make parser
+201014-174720 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-174943 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCg==
+201014-174943 make parser
+201014-174943 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-175744 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjU2MjIzZDBiOWY3YjMzMmM5NjU0OGY2NzExZjk4Yjk1OGNiZDA0MjcgIC4vcGFyc2VyLmNwcAo=
+201014-175744 make 
+201014-175744 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-175753 make parser
+201014-175753 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-175923 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmQwYTZkODQxZjg3YjEyNDhjNzI3MmMzYjE0NDQ4YTZhYmVlZjczYTIgIC4vcGFyc2VyLmNwcAo=
+201014-175923 make parser
+201014-175923 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-180217 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmExMmUwZjdlZGRiYzNlOGU2YWQwMTcyMTdlOGJkMDQ5YzIwZDBkZDMgIC4vcGFyc2VyLmNwcAo=
+201014-180217 make parser
+201014-180217 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-180357 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjYzODhkMGE0MDMxZWVjNDc4NmU4MGFhYmZmOTY1MzkzYmVhYzQ2NjQgIC4vcGFyc2VyLmNwcAo=
+201014-180357 make parser
+201014-180357 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-180448 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjdkZWE3YWYwNmZhNzhmYmNkOTFmODY0MTI2MGQ2MTVjMGVlOGIzNGYgIC4vcGFyc2VyLmNwcAo=
+201014-180448 make parser
+201014-180448 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-180608 Modified: Y2ZhMWVhYTFmNmY1NzQxM2Q2ODg1YzgwNzE0ZjdlYmM4OGNkZDJiMyAgLi9wYXJzZXIuY3BwCg==
+201014-180608 make parser
+201014-180608 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-180919 make test-parser
+201014-180919 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-195810 Modified: NjgzZWMyOGFjYTJhYTU1N2RiMDBmOGUwNGFjN2Y0NGY1OWMxNWY1YSAgLi9wYXJzZXIuY3BwCg==
+201014-195810 make 
+201014-195810 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-195952 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjU5Mjg1MWM2NmQ4NmY5OGRhNjc5MmMzNTU1MmZkMDUyMDVjMDFlODUgIC4vcGFyc2VyLmNwcAo=
+201014-195952 make 
+201014-195952 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-200005 make parser
+201014-200005 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-200056 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjhhNDUwNmFmN2U2NGFmNjg3ZWY1Y2VkOTUwMWIxNzA4YzgwNjM0OWUgIC4vcGFyc2VyLmNwcAo=
+201014-200056 make parser
+201014-200056 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-200250 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmRkNDNiNzFiMzU3MTRlYTZlM2Q2YTk2OThlZGFjZTFlZGJiYTFhNGIgIC4vcGFyc2VyLmNwcAo=
+201014-200250 make parser
+201014-200250 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201014-200413 make test-parser
+201014-200413 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201015-113338 make test-parser
+201015-113338 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201015-115448 Modified: YmVjZWE3MDI4MzhkZWIwM2YzMGFkMGNlY2U0NmNiMWNiZTFjOGU3YyAgLi9wYXJzZXIuY3BwCg==
+201015-115448 make test-parser
+201015-115448 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201015-120716 Modified: ZWUzNTJhNGUzMjllODA1MzIxYmFhMTJlZDRiNDMzNWQyZjhlZjQwYiAgLi9wYXJzZXIuY3BwCg==
+201015-120716 make test-parser
+201015-120716 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201015-120855 Modified: NDg2OGE1MWQyMWQxYTNkNzljMTAwOGZmMDE5MmFkM2Q1YjMyMmU2ZSAgLi9wYXJzZXIuY3BwCg==
+201015-120855 make test-parser
+201015-120855 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-134240 Modified: NDg2OGE1MWQyMWQxYTNkNzljMTAwOGZmMDE5MmFkM2Q1YjMyMmU2ZSAgLi9wYXJzZXIuY3BwCg==
+201017-134240 make test-parser
+201017-134240 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-135201 Modified: Zjk3YjMyNmM2OThmNjRlNTQ0N2YyMGI1OTgzODVlMTk1OGExN2ZlNSAgLi9wYXJzZXIuY3BwCg==
+201017-135201 make test-parser
+201017-135201 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-135309 Modified: ZTAyNWE0MWRkYTgxOTQzMTQ2ZTcwNDdhZTMzMzE4NWJjNzAxMzYxYSAgLi9wYXJzZXIuY3BwCg==
+201017-135309 make test-parser
+201017-135309 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-141118 Modified: ZDI1NmMwYWMwMDM1MDVkNTc1ZmIyNjFjODhlYjc3ZDRjODAzNDBjOCAgLi9wYXJzZXIuY3BwCg==
+201017-141118 make test-parser
+201017-141118 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-141138 make test-parser
+201017-141138 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-142220 Modified: ODY4Y2QyNDhiMGI0YTM0Yjk2N2Q5NjNlNjNmYzJiMTE4YzMxMGUwZSAgLi9wYXJzZXIuY3BwCg==
+201017-142220 make test-parser
+201017-142220 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-153055 Modified: YzZjNGJjZjRjNTBiZjNlZjM0MjAzZDBiNTFmNTAxZTVmNWYyOGM1NSAgLi9wYXJzZXIuY3BwCg==
+201017-153055 make test-parser
+201017-153055 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-154907 Modified: MmM2MjI5YTNlY2M2ODIyOWE0YTJhOTEyN2UxMTFlNzFmYWExNzEyZSAgLi9wYXJzZXIuY3BwCg==
+201017-154907 make test-parser
+201017-154907 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-155616 Modified: MDI5NmUwNmQzZGY1YWI2OWQzMzk5YTk5NTQwMmFiMzRmODA4MmNjOCAgLi9wYXJzZXIuY3BwCg==
+201017-155616 make test-parser
+201017-155616 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-155749 Modified: M2JkZTk3MGZkYzQ4M2NjMzA4ZDFlOTNlZjBlM2Q5ZDIzMmJlZDFhMiAgLi9wYXJzZXIuY3BwCg==
+201017-155749 make test-parser
+201017-155749 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-155900 Modified: ZmRlN2ZlZmI5MzRlZWU3YTA3ZDdmNGVjYmMzZGUzZjYwNGUxNjQ3MCAgLi9wYXJzZXIuY3BwCg==
+201017-155900 make test-parser
+201017-155900 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-160513 Modified: NzZkOTkxZDY2Y2U1Y2Q2OWVkNjg4ZTAxYmQyMTgzOTI2OWMyMzM2ZCAgLi9wYXJzZXIuY3BwCg==
+201017-160513 make test-parser
+201017-160513 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-160922 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjRiNGQ4ODJiZDA4NzI5OTViMTg1Y2E0MGQ5Mjk0MDQ3MGY5NWRmNzkgIC4vcGFyc2VyLmNwcAo=
+201017-160922 make test-parser
+201017-160922 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-161006 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjY3YmUyNjEyYTY0NWI4YjE5MTliZDk4YmFhN2FhYWNiMGYyNjVhYTEgIC4vcGFyc2VyLmNwcAo=
+201017-161006 make test-parser
+201017-161006 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-161207 Modified: Y2UzZTE4ZmQ5NDlkZThjM2U0ZDQ1YzAyZjQwMjU2NWRlNWEyZDJiNCAgLi9wYXJzZXIuY3BwCg==
+201017-161207 make test-parser
+201017-161207 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-161840 Modified: OGU1NDlmODM5YTBkM2Q4ZjgyZTkzMTc2NjQzNzc2ODc5NGEwMTU1YyAgLi9wYXJzZXIuY3BwCg==
+201017-161840 make test-parser
+201017-161840 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-162501 Modified: OGFmNWE3NTA3YTgwNzE4ZGE1M2Q2YjNmYWFkZTFkYTg3YTRiZGUxOCAgLi9wYXJzZXIuY3BwCg==
+201017-162501 make test-parser
+201017-162501 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-162904 Modified: NGY2YWEyMmY5NzQyYmU1ZjY3MmQ2NTdjYmJkMDBiYjVmNjRhNzhjOSAgLi9wYXJzZXIuY3BwCg==
+201017-162904 make test-parser
+201017-162904 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-163436 Modified: YWEwNDEwNzc2ZDc0MmEzYWFmNGIzM2Q1MzExODYzZGM4MjZiY2Y4YyAgLi9wYXJzZXIuY3BwCg==
+201017-163436 make test-parser
+201017-163436 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-163716 Modified: MDZhYzYyYTk2MTEzZDJkYmJmZWQ4MjIzYjU1Mjk2NzU0YWZiMTlmYiAgLi9wYXJzZXIuY3BwCg==
+201017-163716 make test-parser
+201017-163716 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-163957 Modified: YmUzNWEyNGI0YjVkMTc5YTBiNWNhZTZmMDFjMjA5OTM4MWVhZTQ0ZSAgLi9wYXJzZXIuY3BwCg==
+201017-163957 make test-parser
+201017-163957 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-164307 Modified: ZDgyMDY5YmJkN2U4YjM4OWQzNjYwNzdhYmNjN2EyNDFkYWFiODg3YiAgLi9wYXJzZXIuY3BwCg==
+201017-164307 make test-parser
+201017-164307 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-164631 Modified: NTJkZDdhMGFjNWEzMjliNjE2OGI4MDkxODk0YzQzOGNiMWFjNjViNyAgLi9wYXJzZXIuY3BwCg==
+201017-164631 make test-parser
+201017-164631 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-165848 Modified: Y2VjOGI0MmJlNjA4YmRlNGIwNjYwZjk5Mzg2Y2M4MDM0YTYzOTllOSAgLi9wYXJzZXIuY3BwCg==
+201017-165848 make test-parser
+201017-165848 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-170018 Modified: OGNiYWM1Mjc1NWIzMjUyMTg0MmRlZjg2MDYwYzBhMThmNmFkMDQ1MSAgLi9wYXJzZXIuY3BwCg==
+201017-170018 make test-parser
+201017-170018 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-170132 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjMwMzNhMTMzM2M2ZGFhMDhjNDc0YjI2OGU1YmZiNTZhZWI2ODA4NmIgIC4vcGFyc2VyLmNwcAo=
+201017-170132 make test-parser
+201017-170132 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-175742 Modified: Y2FhZWI5OTJiODU0MDhjY2U5NzU3YTNjMmRmZGY2ZmRiOGFmYmY5ZCAgLi9wYXJzZXIuY3BwCg==
+201017-175742 make test-parser
+201017-175742 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-180125 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjE1MDMzYTE3NjM1NGYyNWI1Yjg2ZmZiMjBlNzY5NDQ2ZWJiZjYwNGYgIC4vcGFyc2VyLmNwcAo=
+201017-180125 make test-parser
+201017-180125 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-180346 Modified: YTAyNWY5YjYyYzY4NTc5NDI5NDQ1MDQ2ZDcxZDU4YjEwMzkzNTUyZiAgLi9wYXJzZXIuY3BwCg==
+201017-180346 make test-parser
+201017-180346 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201017-181549 Modified: MDJmZGY1OWM1YzA5NzYxYjU0MWU0Y2MzY2EyMTFkZDZhNWU4ZjMxYSAgLi9wYXJzZXIuY3BwCg==
+201017-181549 make test-parser
+201017-181549 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-140650 Modified: YTAyNWY5YjYyYzY4NTc5NDI5NDQ1MDQ2ZDcxZDU4YjEwMzkzNTUyZiAgLi9wYXJzZXIuY3BwCg==
+201020-140650 make test-parser
+201020-140650 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-141202 Modified: MWMyMmU2OGE1YTJjNDM1ODc3MTc5ZDg4MzI4Y2IwYmQxYTc5N2VkOSAgLi9wYXJzZXIuY3BwCg==
+201020-141202 make test-parser
+201020-141202 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-141252 Modified: NmE3ZTQ0ZTQ3ODE2ODYzODU1M2EwZTExMTRiM2ExNmJkNTIxZWQ3ZSAgLi9wYXJzZXIuY3BwCg==
+201020-141252 make test-parser
+201020-141252 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-141909 Modified: ZjhiMTVhY2EyYzg0NTE2OTViYzE2ZjlmNTdjZDExOWIzZDRhNmQ3OCAgLi9wYXJzZXIuY3BwCg==
+201020-141909 make test-parser
+201020-141909 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-142302 Modified: YWUwMWNiNTY4NjA1MDMwNzU4ZmE4MWE0NTcwNjQwNjcwYjA2ZGE3NiAgLi9wYXJzZXIuY3BwCg==
+201020-142302 make test-parser
+201020-142302 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-142846 Modified: YzYwYWRlN2JmYzc5MjY4OTUwODMwZWIxYTIyMWQ2MjFiZmVhNDk3MiAgLi9wYXJzZXIuY3BwCg==
+201020-142846 make test-parser
+201020-142846 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-143550 Modified: MDJiM2Y4NTk1ZDVmMmM4YjQ1NWM1ZDVjODRjNTcwYWIyZWM1ZDVmZCAgLi9wYXJzZXIuY3BwCg==
+201020-143550 make test-parser
+201020-143550 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-143730 Modified: MjJlNTJjNDMxMmVlZGU2NGQ1ZmM4MDg0ODFlZTk4YmU5MmRiNDJmZCAgLi9wYXJzZXIuY3BwCg==
+201020-143730 make test-parser
+201020-143730 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-143918 Modified: OTYzMTgwMjdjMzJmMWMwMzJhOTYwNGQxNWMxMzg0OWNlYmIxYzQwOSAgLi9wYXJzZXIuY3BwCg==
+201020-143918 make test-parser
+201020-143918 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-144401 Modified: OTYzMTgwMjdjMzJmMWMwMzJhOTYwNGQxNWMxMzg0OWNlYmIxYzQwOSAgLi9wYXJzZXIuY3BwCg==
+201020-144401 make test-parser
+201020-144401 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-144737 Modified: MGI1YjY3ODU5OWU1NTYwNzc4YzU1MDZhM2M4ZmIwYmFhZTgyYjM4MCAgLi9wYXJzZXIuY3BwCg==
+201020-144737 make test-parser
+201020-144737 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-144803 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjkxMTBjYjAwYmIxMjdkODlkZWU4MmYzYTBmNThjZTM4ZjUwMGI5OGEgIC4vcGFyc2VyLmNwcAo=
+201020-144803 make test-parser
+201020-144803 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-145101 Modified: MTcwNGM0MTQ4N2U4OTQ1MTRhYmUyZjIwYjkzZGJjNWI1NzIxOTdmYyAgLi9wYXJzZXIuY3BwCg==
+201020-145101 make test-parser
+201020-145101 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-145904 Modified: ZDU5MWQ2MjU5NzQ1MjAxYjhjNDIzMDFjY2ZkNzY2MmZiODg4MzEyNiAgLi9wYXJzZXIuY3BwCg==
+201020-145904 make test-parser
+201020-145904 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-150427 Modified: Nzc0N2Q5M2RhYjNkNjc2YTM3YWJlN2NhZmRkNzIwNGE4MGY4NWY3NyAgLi9wYXJzZXIuY3BwCg==
+201020-150427 make test-parser
+201020-150427 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-151407 Modified: Nzc0N2Q5M2RhYjNkNjc2YTM3YWJlN2NhZmRkNzIwNGE4MGY4NWY3NyAgLi9wYXJzZXIuY3BwCg==
+201020-151407 make test-parser
+201020-151407 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-151856 Modified: ZGI4YmQ3N2VlZWYzMjJhODQ0ZTgwZmM1MzVlMWQ1MmI0MDNiNTY4YyAgLi9pbmNsdWRlcy8jYWJzdHJhY3Qtc3ludGF4LXRyZWUuaCMKZDFmOGFlYjQwYTJmYjg5MWM1NGM5M2E1ODc5ZDk0N2IzMGY2ZTI3NSAgLi9wYXJzZXIuY3BwCg==
+201020-151856 make test-parser
+201020-151856 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-152736 Modified: NDg0Mzk4NjU5N2RkM2FhYTcyZWVlY2JjYTVmNjhhNDI0MWI2MGQ1NSAgLi9wYXJzZXIuY3BwCg==
+201020-152736 make test-parser
+201020-152736 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-152809 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjFmMmZmZjM2ZTZmMWQzODk2OTUxNDgxYjhjOWY2YWJlYWFiYWVmZTQgIC4vcGFyc2VyLmNwcAo=
+201020-152809 make test-parser
+201020-152809 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-152834 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjdmOGU1OWNiMjU4MmI2OTc5ZmZmZTgzYjQwNDA4MjQ3MTZhMmY5OWUgIC4vcGFyc2VyLmNwcAo=
+201020-152834 make test-parser
+201020-152834 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153027 Modified: NmQ5ZmUwNjZhYzkxYTMzODk5MjVhNTk3NmMwM2FkMmFjNTdjMzc4ZiAgLi9wYXJzZXIuY3BwCg==
+201020-153027 make test-parser
+201020-153027 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153220 Modified: ZmM5Zjc2ODcxMzE2YjJiMmFhZWQzMjA3MDlmYzUxZmQ5YzE4NWRlMyAgLi9wYXJzZXIuY3BwCg==
+201020-153220 make test-parser
+201020-153220 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153353 Modified: ZmM2ODViZmQ1YmZmY2FlYTBjOTliN2Y4MzYxOWQ3NjRhOTEyZjhiMCAgLi9wYXJzZXIuY3BwCg==
+201020-153353 make test-parser
+201020-153353 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153451 Modified: MmIyNDliZDQxYTlmNTlkNGMzZDdhZGMxYzgzN2MyYmUwMGVjYjI4OCAgLi9wYXJzZXIuY3BwCg==
+201020-153451 make test-parser
+201020-153451 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153520 make test-parser
+201020-153520 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153758 Modified: MGI0YWEyMzgzODJmYzU4NDhlMTdkMmEwOTdmOWRmYTMyNTg3MTE2NyAgLi9wYXJzZXIuY3BwCg==
+201020-153758 make test-parser
+201020-153758 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153830 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjRlMWFiMzhhODg5OGU0ZjE2NjQ4NDQwOTQzNTYyMDc2MDM4ZGY0MjcgIC4vcGFyc2VyLmNwcAo=
+201020-153830 make test-parser
+201020-153830 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-153931 Modified: ZjgwNWEyYWJmMjNlYjJlYzhlMmY5MWQ3ZmJjYTc5MzM5ZjdlYTU1NiAgLi9wYXJzZXIuY3BwCg==
+201020-153931 make test-parser
+201020-153931 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-154750 Modified: OTQzY2ZkZGZlZjY5ZTY3YzgwNTE4YmI5NGIzMDI0NWE5MGViOThiZSAgLi9wYXJzZXIuY3BwCg==
+201020-154750 make test-parser
+201020-154750 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-154825 Modified: OTQzY2ZkZGZlZjY5ZTY3YzgwNTE4YmI5NGIzMDI0NWE5MGViOThiZSAgLi9wYXJzZXIuY3BwCg==
+201020-154825 make test-parser
+201020-154825 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-155419 Modified: Mjk0N2RhMmVkNmMwODJkMjMzODc2YmIxMWJlZWMyZWQyZDQwMDYyYiAgLi9wYXJzZXIuY3BwCg==
+201020-155419 make test-parser
+201020-155419 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-160041 Modified: YTIzYTYyYjc3NDFmY2I2ZDZiODczMTE1NjgyZDA4NzBlMGEzZTMyZiAgLi9wYXJzZXIuY3BwCg==
+201020-160041 make test-parser
+201020-160041 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-160140 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjgyOTk4YWQ4ZWI5ZTNkZmFjNGFjM2ZiYzNkYjg2NzA3MDE5YTM0NDkgIC4vcGFyc2VyLmNwcAo=
+201020-160140 make test-parser
+201020-160140 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162031 Modified: MTVmM2MwNGZlMjc1NDFkN2UwNjA0YzlmYjBhNzU4MTAzOTdkODBhOSAgLi9wYXJzZXIuY3BwCg==
+201020-162031 make test-parser
+201020-162031 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162411 Modified: ZTMxZjEzZGRkNzJjMzNlOTBiOWU0YzQ0NmQ1OWZiOTEyMDE2NGVjOSAgLi9wYXJzZXIuY3BwCg==
+201020-162411 make test-parser
+201020-162411 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162448 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjQ0MmM2OGFmMDU5NWQwY2Q1YzNkNmI3OGVkMmVjZmY4NmNmNTA0NTIgIC4vcGFyc2VyLmNwcAo=
+201020-162448 make test-parser
+201020-162448 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162522 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjFhMjYzZTg4ZGE4MzEzYzNmYjJhODBjMTEyM2Y0OTIwNDU1NGZmMjEgIC4vcGFyc2VyLmNwcAo=
+201020-162522 make test-parser
+201020-162522 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162816 Modified: NTJjYTVjMzUxYzcyZDQwMjhhMTA3ZmY1MDVjYWMyYjIzNzgzNGM5OSAgLi9wYXJzZXIuY3BwCg==
+201020-162816 make test-parser
+201020-162816 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-162937 Modified: OWE5MmRhYzczNTFjZWY4YjU0ZjA4YTY4MzczNWU0Njg2MzhkYjQ1MSAgLi9wYXJzZXIuY3BwCg==
+201020-162937 make test-parser
+201020-162937 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-163144 Modified: YjFiYThhOGQyYzk3MGU4MmY4YjgzMDI3ZTQwNDhmYmRjYjRhMzg1OSAgLi9wYXJzZXIuY3BwCg==
+201020-163144 make test-parser
+201020-163144 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-163216 Modified: MWQ1Mzc3ODEzZGI0YjU1MTc1YmIwNWRiNTU4NDg4ZWM2MWRkNjE5YSAgLi9wYXJzZXIuY3BwCg==
+201020-163216 make test-parser
+201020-163216 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164054 make test-parser
+201020-164054 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164408 Modified: MWNiMDczZWY4YjA3NWJiY2FiZDI3NjQ5Zjc1MGEyZjY3MzZhZWNhMyAgLi9wYXJzZXIuY3BwCg==
+201020-164408 make test-parser
+201020-164408 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164525 Modified: MGJlMDczYjgyNjE4NGVkZmM3ZDdjNTQ2MGRlYTVhYjU5ZTk1YmViNSAgLi9wYXJzZXIuY3BwCg==
+201020-164525 make test-parser
+201020-164525 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164557 Modified: MGJlMDczYjgyNjE4NGVkZmM3ZDdjNTQ2MGRlYTVhYjU5ZTk1YmViNSAgLi9wYXJzZXIuY3BwCg==
+201020-164557 make test-parser
+201020-164557 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164816 Modified: ZDNkMDc3NjEyNDM1ZjMxNTU3OGRlZTVlNTRkNWFiYmU2YTk0NjcxZCAgLi9wYXJzZXIuY3BwCg==
+201020-164816 make test-parser
+201020-164816 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-164850 Modified: MTMyYTRjNGY5ZTA0MDA5YTgzYTc5NzM5YmY3NWRjMmYzZjNhMjFjOSAgLi9wYXJzZXIuY3BwCg==
+201020-164850 make test-parser
+201020-164850 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-165120 Modified: M2VmYjU5OGUxZWZhMjcyNzI3MDZhN2FiYjA4ZDJjNmFhODIzYTJiOCAgLi9wYXJzZXIuY3BwCg==
+201020-165120 make test-parser
+201020-165120 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-165629 Modified: OGRlMzRlN2Y2ZDU1MzExMmY3N2YzNzRjNzc4ZDQzMmE0MDM3OGQwOSAgLi9wYXJzZXIuY3BwCg==
+201020-165629 make test-parser
+201020-165629 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-165700 Modified: MjUwNjI3MGViMDgzZjkzZGMxNWM4NWRmNzBjMzRhNDFiZmNhMmQ0MyAgLi9wYXJzZXIuY3BwCg==
+201020-165700 make test-parser
+201020-165700 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-170601 Modified: MTUzM2E5ODNkNDQ2NzNmYzk3MGJkZDZjZGM5ZjhhMjI2NDE5NTQ0MSAgLi9wYXJzZXIuY3BwCg==
+201020-170601 make test-parser
+201020-170601 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-172954 Modified: OTc2YjgwZTcxNmNiODIxOTgyMTViODRlNTk5YjFiY2I2ZGJiMjhjZiAgLi9wYXJzZXIuY3BwCg==
+201020-172954 make test-parser
+201020-172954 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-173752 Modified: ZWUwZjRiMmVkZmVkNWEwNDlhZDZjNzMwMjY4YmU2Njg0OWRlOWU0YyAgLi9wYXJzZXIuY3BwCg==
+201020-173752 make test-parser
+201020-173752 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-174842 Modified: ZDc3MTcwNjU3ZWUxYjAyZjJjZDVhZmMzODYxMTM4YWZjNjE5NzlhZCAgLi9wYXJzZXIuY3BwCg==
+201020-174842 make test-parser
+201020-174842 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-175022 Modified: NmZiMGU1YTgyYjRkNzIwODBjMTJhYTk1ZDExYWVlYzlhNTFiMzIyNiAgLi9wYXJzZXIuY3BwCg==
+201020-175022 make test-parser
+201020-175022 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-180231 Modified: ODA5YTBiNWZiNDIzMWQyYzlkNjY4MDE1ZDc1ZGI2NTk5YTcxMWZiZSAgLi9wYXJzZXIuY3BwCg==
+201020-180231 make test-parser
+201020-180231 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-181147 Modified: ZDk4ZGJjMWFkYTlmMjEwMWQxYzUwMjNjN2Y0OGFhMjk4Y2RkZWJmYiAgLi9wYXJzZXIuY3BwCg==
+201020-181147 make test-parser
+201020-181147 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-181239 Modified: NTM3ZTY5MDQ2NDEzMjEyZTZjZWZhY2EyNzA5MDM1ZGIwZTRhN2RjNiAgLi9wYXJzZXIuY3BwCg==
+201020-181239 make test-parser
+201020-181239 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-181438 Modified: OWEwZDVmZmYxYTgyOGE5YmUyMzliMWQ4NzVlY2E0ZGVjMGZmNDgyNCAgLi9wYXJzZXIuY3BwCg==
+201020-181438 make test-parser
+201020-181438 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201020-181737 Modified: Y2EyOTRkMDhmZGUxMzBkZGVkZGI2YjExMjY4ODNjZGI0ZDUzM2JkMiAgLi9wYXJzZXIuY3BwCg==
+201020-181737 make test-parser
+201020-181737 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-144252 Modified: Y2EyOTRkMDhmZGUxMzBkZGVkZGI2YjExMjY4ODNjZGI0ZDUzM2JkMiAgLi9wYXJzZXIuY3BwCg==
+201021-144252 make test-parser
+201021-144252 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-144502 Modified: N2Q2MWExZWQ3YjY0Y2QwMzBkMTE0ZTJkM2MyMWMyMGIzNTNkNWEwMyAgLi9wYXJzZXIuY3BwCg==
+201021-144502 make test-parser
+201021-144502 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-144853 Modified: MTY2NjA1ZDEyZDk4N2Y3ZjliNTVjNmNmNjgxZGM4ZGYyODdkMDdkZiAgLi9wYXJzZXIuY3BwCg==
+201021-144853 make test-parser
+201021-144853 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-144931 Modified: MTY2NjA1ZDEyZDk4N2Y3ZjliNTVjNmNmNjgxZGM4ZGYyODdkMDdkZiAgLi9wYXJzZXIuY3BwCg==
+201021-144931 make test-parser
+201021-144931 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-145240 Modified: MjNkMDhjNTQ4ODRlNTRiN2E3MzA4ODdjYjczYzQwZmFiMTMzOGMxYyAgLi9wYXJzZXIuY3BwCg==
+201021-145240 make test-parser
+201021-145240 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-145327 Modified: ZWFjY2I5NWQ3YmViMGYzMDM2YzRlZWMwMDlhOWU5YzZhYWQxYTk0MSAgLi9wYXJzZXIuY3BwCg==
+201021-145327 make test-parser
+201021-145327 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-145507 Modified: ZjIyNzhkOTEwYTY0M2ZlMTBmMWUwODYxZmM5ZmU2MGU2NTA3OTZjMCAgLi9wYXJzZXIuY3BwCg==
+201021-145507 make test-parser
+201021-145507 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-150924 Modified: NTliNGE0OTU3NTdlYzJkYmRlMzliNTZlMDlkZGFlMGVjYmYzNDExMCAgLi9wYXJzZXIuY3BwCg==
+201021-150924 make test-parser
+201021-150924 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-151623 Modified: OTljNjA1Zjc4MDc3ZTNlNmM5ZDEyMDRhYTYwZTdhYzY3NDJhMzg5NyAgLi9wYXJzZXIuY3BwCg==
+201021-151623 make test-parser
+201021-151623 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-151734 Modified: ZGRiYjk3MmNiNjAyODE3NzQ2YWViYzE5OTI5Y2M0ZTJjYTg3OGU2ZCAgLi9wYXJzZXIuY3BwCg==
+201021-151734 make test-parser
+201021-151734 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-151827 Modified: OTljNjA1Zjc4MDc3ZTNlNmM5ZDEyMDRhYTYwZTdhYzY3NDJhMzg5NyAgLi9wYXJzZXIuY3BwCg==
+201021-151827 make test-parser
+201021-151827 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201021-152122 Modified: ODU0OGU4MGZmNTBjNjMwODFiNDMyOTIxYjlkNGM1MjJhYmQxODg0NyAgLi9wYXJzZXIuY3BwCg==
+201021-152122 make test-parser
+201021-152122 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201023-181257 Modified: ZjRmY2ViYmZlNzEyZjUwZGQ1ODg2NmNkODllMTE5YzVhMTgxYzI1NyAgLi9wYXJzZXIuY3BwCg==
+201023-181257 make test-parser
+201023-181257 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201023-181441 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCmQ1MzZjNGFhYjEwYzNmZDliYTc4ZDJjNWVhNzY0NmZiNDhkODNjNmEgIC4vcGFyc2VyLmNwcAo=
+201023-181441 make test-parser
+201023-181441 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201023-181616 Modified: YTU2ZTQ5NmQzY2UyNGM3MzFhMjlmNjU3ZTI1MGJhZTE5ZjQzOGEyOCAgLi91cGRhdGVzL2luc3RhbGxlci5iYXNoCjI1ZWUzNjJmYTIyMjQxZTk5ODQyZDg3YmUzZTVmZmVkNmNlNGMxMmYgIC4vcGFyc2VyLmNwcAo=
+201023-181616 make test-parser
+201023-181616 SVN user: a1788848, repository path: 2020/s2/cs/assignment3
+201023-182601 Modified: NTc5ZjIyYTYzZTBmYTc2MTcyMzBiYTIyN2ZmYzc0ZGRjOGU2ZDk1NCAgLi9wYXJzZXIuY3BwCg==
+201023-182601 make test-parser
+201023-182601 SVN user: a1788848, repository path: 2020/s2/cs/assignment3

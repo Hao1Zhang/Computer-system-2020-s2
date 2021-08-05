@@ -1,0 +1,141 @@
+201027-090103 Modified: ZGViZGJkNjVkMDhlMzdlYWVmMjc5OTJjMDcwZjlmNmM2NjZjOThjOCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjhjY2Q1MTI2MTNkNjg5YTI5MWU4YzM5NjJmYTgzODY0NDgxMjI4NTMgIC4vdXBk
+YXRlcy9leGFtM3AtMjAyMDA5MTktMTQ0NDA2LnppcAo=
+201027-090103 make install
+201027-090103 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-090103 updater:  Directory: ./bin
+201027-090103 updater:  Directory: ./originals
+201027-090103 updater:  Directory: ./tests
+201027-090103 updater:  Directory: ./includes
+201027-090103 updater:  Directory: ./lib
+201027-090103 updater:  Directory: ./lib/cats
+201027-090103 updater:  Directory: ./lib/cats/bin
+201027-090103 updater:  Directory: ./lib/macos
+201027-090103 updater:  Directory: ./lib/macos/bin
+201027-090103 updater:  Directory: ./lib/centos8
+201027-090103 updater:  Directory: ./lib/centos8/bin
+201027-090103 updater:  Creating: ./bin/diffc
+201027-090103 updater:  Creating: ./bin/diff-colours
+201027-090103 updater:  Creating: ./bin/parser
+201027-090103 updater:  Creating: ./bin/Compiler-check.bash
+201027-090103 updater:  Creating: ./bin/run-tests
+201027-090103 updater:  Creating: ./bin/tokens
+201027-090103 updater:  Creating: updates/Makefile
+201027-090103 updater:  Creating: ./originals/parser.cpp
+201027-090103 updater:  Creating: ./tests/let1.test
+201027-090103 updater:  Creating: ./tests/var2.test
+201027-090103 updater:  Creating: ./tests/throw1.test.Pxml
+201027-090103 updater:  Creating: ./tests/let1.test.Pxml
+201027-090103 updater:  Creating: ./tests/switch1.test
+201027-090103 updater:  Creating: ./tests/do1.test.Pxml
+201027-090103 updater:  Creating: ./tests/sequence2.test
+201027-090103 updater:  Creating: ./tests/switch1.test.Pxml
+201027-090103 updater:  Creating: ./tests/if1.test.Pxml
+201027-090103 updater:  Creating: ./tests/sequence1.test.Pxml
+201027-090103 updater:  Creating: ./tests/var2.test.Pxml
+201027-090103 updater:  Creating: ./tests/while1.test.Pxml
+201027-090103 updater:  Creating: ./tests/ifelse1.test.Pxml
+201027-090103 updater:  Creating: ./tests/ifelse1.test
+201027-090103 updater:  Creating: ./tests/var1.test.Pxml
+201027-090103 updater:  Creating: ./tests/sequence2.test.Pxml
+201027-090103 updater:  Creating: ./tests/let3.test.Pxml
+201027-090103 updater:  Creating: ./tests/throw1.test
+201027-090103 updater:  Creating: ./tests/do1.test
+201027-090103 updater:  Creating: ./tests/if1.test
+201027-090103 updater:  Creating: ./tests/while1.test
+201027-090103 updater:  Creating: ./tests/sequence1.test
+201027-090103 updater:  Creating: ./tests/let3.test
+201027-090103 updater:  Creating: ./tests/let2.test
+201027-090103 updater:  Creating: ./tests/var1.test
+201027-090103 updater:  Creating: ./tests/let2.test.Pxml
+201027-090103 updater:  Creating: ./includes/tokeniser-groups.h
+201027-090103 updater:  Creating: ./includes/symbols.h
+201027-090103 updater:  Creating: ./includes/tokeniser.h
+201027-090103 updater:  Creating: ./includes/iobuffer.h
+201027-090103 updater:  Creating: ./includes/abstract-syntax-tree.h
+201027-090103 updater:  Creating: ./parser
+201027-090103 updater:  Creating: ./lib/cats/bin/diff-colours
+201027-090103 updater:  Creating: ./lib/cats/bin/parser
+201027-090103 updater:  Creating: ./lib/cats/bin/tokens
+201027-090103 updater:  Creating: ./lib/cats/lib.a
+201027-090103 updater:  Creating: ./lib/macos/bin/diff-colours
+201027-090103 updater:  Creating: ./lib/macos/bin/parser
+201027-090103 updater:  Creating: ./lib/macos/bin/tokens
+201027-090103 updater:  Creating: ./lib/macos/lib.a
+201027-090103 updater:  Creating: ./lib/centos8/bin/diff-colours
+201027-090103 updater:  Creating: ./lib/centos8/bin/parser
+201027-090103 updater:  Creating: ./lib/centos8/bin/tokens
+201027-090103 updater:  Creating: ./lib/centos8/lib.a
+201027-090103 updater:  Made parser executable
+201027-090103 updater:  Made bin/Compiler-check.bash executable
+201027-090103 updater:  Made bin/diffc executable
+201027-090103 updater:  Made bin/diff-colours executable
+201027-090103 updater:  Made bin/parser executable
+201027-090103 updater:  Made bin/run-tests executable
+201027-090103 updater:  Made bin/tokens executable
+201027-090103 updater:  Made lib/cats/bin/diff-colours executable
+201027-090103 updater:  Made lib/cats/bin/parser executable
+201027-090103 updater:  Made lib/cats/bin/tokens executable
+201027-090103 updater:  Made lib/centos8/bin/diff-colours executable
+201027-090103 updater:  Made lib/centos8/bin/parser executable
+201027-090103 updater:  Made lib/centos8/bin/tokens executable
+201027-090103 updater:  Made lib/macos/bin/diff-colours executable
+201027-090103 updater:  Made lib/macos/bin/parser executable
+201027-090103 updater:  Made lib/macos/bin/tokens executable
+201027-090103 updater:  Creating: parser.cpp
+201027-090103 updater:  Updating: updates/README
+201027-090103 updater:  Update installed
+201027-090733 Modified: ZDM3MzNiODVkNDIzZTYwMDRhYzkwZDcxNmNmMGYwMGUxYWY1MDU3MyAgLi9wYXJzZXIuY3BwCg==
+201027-090733 make 
+201027-090733 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-091246 Modified: ZGRjMDVkYjE2MDc5MzYxMTRhOWU0YWYzZDM2YTRiMTYxMTQxY2E4OCAgLi9vcmlnaW5hbHMvcGFy
+c2VyLmNwcAo=
+201027-091246 make 
+201027-091246 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-091246 updater:  Updating: ./originals/parser.cpp
+201027-091535 Modified: MTcwM2FiMzQ1M2JhYjc1ZDZlOGE5MjY4NTFiNGQ5MTY1NmRkMThiZiAgLi9wYXJzZXIuY3BwCg==
+201027-091535 make 
+201027-091535 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-091644 Modified: NDk3Y2Q3NjgxZDk4ZGI5OTM2YTExMmYzZDIyNWYxYzFlNWNkNjIzYyAgLi9wYXJzZXIuY3BwCg==
+201027-091644 make 
+201027-091644 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-091817 Modified: YjM0YmY5ODhlNzlhYWU3ZTVkZjU0NzU5NTczNGFhN2M4NzFhYTM5YSAgLi9wYXJzZXIuY3BwCg==
+201027-091817 make 
+201027-091817 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-092113 Modified: NTY3ZjIyNGY0YTk1Mzc5ZDU3NjMxYWVjNzhkZmRhYTI2OWNiMTBlYSAgLi9wYXJzZXIuY3BwCg==
+201027-092113 make 
+201027-092113 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-092342 Modified: NGY4OTE4M2E5Yzk2MGVjMGE3ZDQ1NDg1NDBmY2UyYzU4OWY5ODkxMCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjkyNTAwM2MxZWMwODY4MjMyODI1NTUxZWQ5NmQ0NDhhZTI2ZjIzNDYgIC4vcGFy
+c2VyLmNwcAo=
+201027-092342 make 
+201027-092342 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-092406 Modified: NGY4OTE4M2E5Yzk2MGVjMGE3ZDQ1NDg1NDBmY2UyYzU4OWY5ODkxMCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjlkZjg5MDZjYWRhOGUzZTI1OTE1YTE4YzE1NGM5ZWVjN2QyYWJmYWQgIC4vcGFy
+c2VyLmNwcAo=
+201027-092406 make 
+201027-092406 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-093419 Modified: ZjdmZTA3MjRhZGYzNTc3NjIyYTZhYmNlYjk2NDY0Y2MzODY4ZDRkMyAgLi9wYXJzZXIuY3BwCg==
+201027-093419 make 
+201027-093419 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-093453 Modified: NGY4OTE4M2E5Yzk2MGVjMGE3ZDQ1NDg1NDBmY2UyYzU4OWY5ODkxMCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjFiMzFlNDAyNzM3MmU3ZTE4NWE3M2U4Y2U0MmExMGNiM2U4ODA5Y2YgIC4vcGFy
+c2VyLmNwcAo=
+201027-093453 make 
+201027-093453 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-093535 Modified: NGY4OTE4M2E5Yzk2MGVjMGE3ZDQ1NDg1NDBmY2UyYzU4OWY5ODkxMCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCmY1NGI0MzA3ODhkYTRmMGRjZDE3ZjMzMDNjZDNjMzZmZGYxY2ExZTIgIC4vcGFy
+c2VyLmNwcAo=
+201027-093535 make 
+201027-093535 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-093710 Modified: NjI3NTFhNzE0ZGFiNDdmMjc3ZWMzNjA3MTNiY2I4MDc2ZWVjMTVjMSAgLi9wYXJzZXIuY3BwCg==
+201027-093710 make 
+201027-093710 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-094637 Modified: MzhjMjRlYTEyZTgyNTU1MWI4ZjFlNWFmOTk1ZDI2NGEyNzZhZTA0NiAgLi9wYXJzZXIuY3BwCg==
+201027-094637 make 
+201027-094637 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary
+201027-094654 Modified: NGY4OTE4M2E5Yzk2MGVjMGE3ZDQ1NDg1NDBmY2UyYzU4OWY5ODkxMCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjlmMDZlOGZhOGM0NTE1NjA0YWI2OWRjZGZmY2JjNTU4NmVlM2Y2ZTEgIC4vcGFy
+c2VyLmNwcAo=
+201027-094654 make 
+201027-094654 SVN user: a1788848, repository path: 2020/s2/cs/exam3-primary

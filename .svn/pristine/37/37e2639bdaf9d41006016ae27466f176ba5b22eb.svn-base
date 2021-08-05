@@ -1,0 +1,66 @@
+200821-152617 Modified: MGM2ODIzMDFhZDViZjIzMmFjYWZjNjQ0MDc1MDAxZjVmZTRmYTY2MCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCjJkZDIwYzZlNzcyY2Q0NzM0OThlODBkZjg1NjdhZjU2NzYxOWVkYzYgIC4vdXBk
+YXRlcy9wcm9qZWN0MDMtMjAyMDA4MTQtMTAxNjMwLnppcApkNTQ5ZTkwYTA2NTE3NzQ5NTA2ZDJj
+MmY4YTU4Mzk3YmFlNzQ1Mjg5ICAuL01ha2VmaWxlCg==
+200821-152617 make install
+200821-152617 SVN user: a1777315, repository path: 2020/s2/cs/project03
+200821-152617 updater:  Directory: ./bin
+200821-152617 updater:  Directory: ./originals
+200821-152617 updater:  Directory: ./originals/a
+200821-152617 updater:  Directory: ./originals/b
+200821-152617 updater:  Directory: ./a
+200821-152617 updater:  Directory: ./b
+200821-152617 updater:  Creating: ./bin/run-tests
+200821-152617 updater:  Creating: updates/Makefile
+200821-152617 updater:  Creating: ./originals/a/PC.hdl
+200821-152617 updater:  Creating: ./originals/a/RAM64.hdl
+200821-152617 updater:  Creating: ./originals/a/RAM8.hdl
+200821-152617 updater:  Creating: ./originals/a/Bit.hdl
+200821-152617 updater:  Creating: ./originals/a/Register.hdl
+200821-152617 updater:  Creating: ./originals/b/RAM512.hdl
+200821-152617 updater:  Creating: ./originals/b/RAM4K.hdl
+200821-152617 updater:  Creating: ./originals/b/RAM16K.hdl
+200821-152617 updater:  Creating: ./a/RAM8.cmp
+200821-152617 updater:  Creating: ./a/PC.tst
+200821-152617 updater:  Creating: ./a/Bit.cmp
+200821-152617 updater:  Creating: ./a/Register.cmp
+200821-152617 updater:  Creating: ./a/RAM64.tst
+200821-152617 updater:  Creating: ./a/RAM64.cmp
+200821-152617 updater:  Creating: ./a/PC.cmp
+200821-152617 updater:  Creating: ./a/RAM8.tst
+200821-152617 updater:  Creating: ./a/Register.tst
+200821-152617 updater:  Creating: ./a/Bit.tst
+200821-152617 updater:  Creating: ./b/RAM512.tst
+200821-152617 updater:  Creating: ./b/RAM4K.tst
+200821-152617 updater:  Creating: ./b/RAM16K.cmp
+200821-152617 updater:  Creating: ./b/RAM4K.cmp
+200821-152617 updater:  Creating: ./b/RAM16K.tst
+200821-152617 updater:  Creating: ./b/RAM512.cmp
+200821-152617 updater:  Made bin/run-tests executable
+200821-152617 updater:  Creating: a/PC.hdl
+200821-152617 updater:  Creating: a/RAM64.hdl
+200821-152617 updater:  Creating: a/RAM8.hdl
+200821-152617 updater:  Creating: a/Bit.hdl
+200821-152617 updater:  Creating: a/Register.hdl
+200821-152617 updater:  Creating: b/RAM512.hdl
+200821-152617 updater:  Creating: b/RAM4K.hdl
+200821-152617 updater:  Creating: b/RAM16K.hdl
+200821-152617 updater:  Updating: updates/README
+200821-152617 updater:  Update installed
+200821-152944 Modified: ZWRjMzQzNTI4NTI2N2U3YzUzNTNiNWVkMzVmZjVjZmJjODE5NmIyNSAgLi9hL1BDLmhkbAozMDM0
+ZTZjYzYyM2NjODRhNDkzM2NkNDlkMTIwZWY2MTVkOTVlYWQxICAuL2EvQml0LmhkbAo=
+200821-152944 make 
+200821-152944 SVN user: a1777315, repository path: 2020/s2/cs/project03
+200821-153109 Modified: NmU2OTVjOTIwNWE2OWViYTE4NjE3MzAyZjE2YjA5M2E3NzkxNGM4NSAgLi9hL1JBTTY0LmhkbAo4
+NjVmYWVmNGQzNTkwNjQwYzQ1Y2ViOWNjNTk0MDlmMWYyNDE4OWQyICAuL2EvUkFNOC5oZGwK
+200821-153109 make 
+200821-153109 SVN user: a1777315, repository path: 2020/s2/cs/project03
+200821-153208 Modified: NjlkM2RiMjg3MDkyNzBjMGUyYWMzNmU0YjkxYzc1ZWY3ZDcwNzllNCAgLi9hL1JlZ2lzdGVyLmhk
+bAo=
+200821-153208 make 
+200821-153208 SVN user: a1777315, repository path: 2020/s2/cs/project03
+200821-153411 Modified: Y2Y2MmMwYzZhODBjNGU3YmIzYTdmOWViNDhmZWY2ZThkN2JkNzEzNSAgLi9iL1JBTTUxMi5oZGwK
+ZmQ0ODBmNmM3Nzg0NWNlMjZkZTVjNDkwZjA5ZTM0Njk2OTZiYzljNSAgLi9iL1JBTTRLLmhkbAo5
+NTNmNTY5YTdiZjgyZjdiMWQ0M2QyNzFiNzhjZjc4ZWMwY2YyYTcwICAuL2IvUkFNMTZLLmhkbAo=
+200821-153411 make 
+200821-153411 SVN user: a1777315, repository path: 2020/s2/cs/project03

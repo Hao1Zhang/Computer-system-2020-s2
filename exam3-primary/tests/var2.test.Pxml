@@ -1,0 +1,24 @@
+<program>
+    <declarations>
+        <declaration>
+            <variable>
+                <variable-segment>local</variable-segment>
+                <variable-name>def</variable-name>
+                <variable-offset>0</variable-offset>
+                <variable-type>abc</variable-type>
+            </variable>
+        </declaration>
+        <declaration>
+            <variable>
+                <variable-segment>local</variable-segment>
+                <variable-name>bbb</variable-name>
+                <variable-offset>1</variable-offset>
+                <variable-type>ayx</variable-type>
+            </variable>
+        </declaration>
+    </declarations>
+    <statement>
+        <statements>
+        </statements>
+    </statement>
+</program>

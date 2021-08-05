@@ -1,0 +1,36 @@
+<program>
+    <declarations>
+    </declarations>
+    <statement>
+        <switch>
+            <expression>
+                <term>
+                    <int>
+                        <ic>3</ic>
+                    </int>
+                </term>
+            </expression>
+            <statements>
+                <statement>
+                    <case>
+                        <expression>
+                            <term>
+                                <int>
+                                    <ic>4</ic>
+                                </int>
+                            </term>
+                        </expression>
+                    </case>
+                </statement>
+                <statement>
+                    <default>
+                    </default>
+                </statement>
+                <statement>
+                    <statements>
+                    </statements>
+                </statement>
+            </statements>
+        </switch>
+    </statement>
+</program>

@@ -1,0 +1,59 @@
+200807-181558 Modified: MGM2ODIzMDFhZDViZjIzMmFjYWZjNjQ0MDc1MDAxZjVmZTRmYTY2MCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCmI4YWFmZTg4M2ZjYjhiMWFhYzFmYzNjODJlZGQ0Zjk1ODhiNmUzZWMgIC4vdXBk
+YXRlcy93b3Jrc2hvcDA0LTIwMjAwNzI0LTE5MzI0OC56aXAK
+200807-181558 make install
+200807-181558 SVN user: a1777315, repository path: 2020/s2/cs/workshop04
+200807-181558 updater:  Directory: ./bin
+200807-181558 updater:  Directory: ./originals
+200807-181558 updater:  Creating: ./ComputerRect.tst
+200807-181558 updater:  Creating: ./ComputerAdd.tst
+200807-181558 updater:  Creating: ./CPU-external.cmp
+200807-181558 updater:  Creating: ./Memoryx.tst
+200807-181558 updater:  Creating: ./bin/run-tests
+200807-181558 updater:  Creating: ./ComputerAdd-external.tst
+200807-181558 updater:  Creating: updates/Makefile
+200807-181558 updater:  Creating: ./Add.hack
+200807-181558 updater:  Creating: ./ComputerMax-external.tst
+200807-181558 updater:  Creating: ./originals/Memory.hdl
+200807-181558 updater:  Creating: ./originals/Computer.hdl
+200807-181558 updater:  Creating: ./originals/CPU.hdl
+200807-181558 updater:  Creating: ./Memory.tst
+200807-181558 updater:  Creating: ./CPU.cmp
+200807-181558 updater:  Creating: ./ComputerRect-external.tst
+200807-181558 updater:  Creating: ./ComputerMax.cmp
+200807-181558 updater:  Creating: ./ComputerMax-external.cmp
+200807-181558 updater:  Creating: ./Max.hack
+200807-181558 updater:  Creating: ./ComputerMax.tst
+200807-181558 updater:  Creating: ./Rect.hack
+200807-181558 updater:  Creating: ./Memory.cmp
+200807-181558 updater:  Creating: ./CPU.tst
+200807-181558 updater:  Creating: ./ComputerRect-external.cmp
+200807-181558 updater:  Creating: ./ComputerAdd-external.cmp
+200807-181558 updater:  Creating: ./CPU-external.tst
+200807-181558 updater:  Creating: ./Memoryx.cmp
+200807-181558 updater:  Creating: ./ComputerRect.cmp
+200807-181558 updater:  Creating: ./ComputerAdd.cmp
+200807-181558 updater:  Made Add.hack executable
+200807-181558 updater:  Made Max.hack executable
+200807-181558 updater:  Made Rect.hack executable
+200807-181558 updater:  Made bin/run-tests executable
+200807-181558 updater:  Creating: Memory.hdl
+200807-181558 updater:  Creating: Computer.hdl
+200807-181558 updater:  Creating: CPU.hdl
+200807-181558 updater:  Updating: updates/README
+200807-181558 updater:  Update installed
+200814-154241 Modified: N2IxNzJiMjQ2ODQ4Y2Q0YzIxMGZmNDE1NzBhZTgxNmQyOWU1MmFhOCAgLi9NZW1vcnkub3V0Cg==
+200814-154241 make 
+200814-154241 SVN user: a1777315, repository path: 2020/s2/cs/workshop04
+200814-154351 Modified: YzQ2NWUyMGIyMWNlMTljMjI0Nzk2ZmViMTU1ODFkMjFmZjg4MGE0YSAgLi9NZW1vcnkuaGRsCg==
+200814-154351 make 
+200814-154351 SVN user: a1777315, repository path: 2020/s2/cs/workshop04
+200814-154559 make 
+200814-154559 SVN user: a1777315, repository path: 2020/s2/cs/workshop04
+200814-155111 Modified: NGVjNzBiZWJkNWI3ZmU5NGMxODY4Yjc1ZDA3NzQ2ZGM5NjIxNTA1NyAgLi9DUFUuaGRsCmI5OWE0
+NDY5ZDhlYWQ3YjU2NDBhYmJlNzVlMzA5MDA0ZTY3OGQ5NGEgIC4vTWVtb3J5Lm91dAo=
+200814-155111 make 
+200814-155111 SVN user: a1777315, repository path: 2020/s2/cs/workshop04
+200814-155311 Modified: MmYwMjFkZTcwMTc3NWI5MTdiMTlmMTc5MWRjN2IwZjk0MmFmMTE1YSAgLi9Db21wdXRlci5oZGwK
+200814-155311 make 
+200814-155311 SVN user: a1777315, repository path: 2020/s2/cs/workshop04

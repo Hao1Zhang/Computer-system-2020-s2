@@ -1,0 +1,37 @@
+<program>
+    <declarations>
+        <declaration>
+            <variable>
+                <variable-segment>local</variable-segment>
+                <variable-name>v</variable-name>
+                <variable-offset>0</variable-offset>
+                <variable-type>int</variable-type>
+            </variable>
+        </declaration>
+    </declarations>
+    <statement>
+        <let>
+            <variable>
+                <variable-segment>local</variable-segment>
+                <variable-name>v</variable-name>
+                <variable-offset>0</variable-offset>
+                <variable-type>int</variable-type>
+            </variable>
+            <expression>
+                <infix-op>
+                    <term>
+                        <int>
+                            <ic>1</ic>
+                        </int>
+                    </term>
+                    <op>*</op>
+                    <term>
+                        <int>
+                            <ic>5</ic>
+                        </int>
+                    </term>
+                </infix-op>
+            </expression>
+        </let>
+    </statement>
+</program>

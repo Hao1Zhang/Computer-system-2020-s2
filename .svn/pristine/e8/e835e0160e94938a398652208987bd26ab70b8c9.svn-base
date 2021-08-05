@@ -1,0 +1,27 @@
+class Main
+{
+	function int average()
+	{
+		var int sum,i,a, count,ave;
+		let i = 1;
+		let count = 0;
+		while(i = 1){
+			let a = Unix.readInt("");
+			let sum = sum+a;
+			if(a = 0){
+				let i = 0;
+			}else{
+				let count = count + 1;
+			}
+		}
+		let ave = sum / count;
+		return ave;
+	}
+
+	function void main()
+	{
+		do Unix.printInt(Main.average());
+		do Unix.println();
+		return;
+	}
+}

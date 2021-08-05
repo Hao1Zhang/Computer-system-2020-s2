@@ -1,0 +1,61 @@
+200804-143608 Modified: ZGViZGJkNjVkMDhlMzdlYWVmMjc5OTJjMDcwZjlmNmM2NjZjOThjOCAgLi91cGRhdGVzL2luc3Rh
+bGxlci5iYXNoCmQ1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3NDUyODkgIC4vTWFr
+ZWZpbGUKNDlmZDBlMGVhNzRiYjNhNWJmMDhiNDA2NzI0YmI3MjFmNzJmN2Y0NiAgLi93b3Jrc2hv
+cDAyLTIwMjAwNzI0LTE5MzI0NC56aXAK
+200804-143608 make install
+200804-143608 SVN user: a1788848, repository path: 2020/s2/cs/workshop02
+200804-143608 Cannot find any zip files in updates/
+200804-143634 Modified: MzYxYzFlYWY2ZDk1YmVlYjg3NTNmODlhOGUyZmFjZWE2YWY3ZGUxNCAgLi91cGRhdGVzL01ha2Vm
+aWxlCg==
+200804-143634 make install
+200804-143634 SVN user: a1788848, repository path: 2020/s2/cs/workshop02
+200804-143634 Cannot find any zip files in updates/
+200804-143801 make install
+200804-143801 SVN user: a1788848, repository path: 2020/s2/cs/workshop02
+200804-143801 updater:  Directory: ./bin
+200804-143801 updater:  Directory: ./originals
+200804-143801 updater:  Directory: ./originals/ALU
+200804-143801 updater:  Directory: ./ALU
+200804-143801 updater:  Creating: ./HalfAdder.tst
+200804-143801 updater:  Creating: ./Inc16.cmp
+200804-143801 updater:  Creating: ./bin/run-tests
+200804-143801 updater:  Creating: ./Add16.cmp
+200804-143801 updater:  Creating: ./FullAdder.cmp
+200804-143801 updater:  Updating: updates/Makefile
+200804-143801 updater:  Creating: ./originals/HalfAdder.hdl
+200804-143801 updater:  Creating: ./originals/FullAdder.hdl
+200804-143801 updater:  Creating: ./originals/Inc16.hdl
+200804-143801 updater:  Creating: ./originals/Add16.hdl
+200804-143801 updater:  Creating: ./originals/ALU/ALU.hdl
+200804-143801 updater:  Creating: ./FullAdder.tst
+200804-143801 updater:  Creating: ./HalfAdder.cmp
+200804-143801 updater:  Creating: ./Add16.tst
+200804-143801 updater:  Creating: ./Inc16.tst
+200804-143801 updater:  Creating: ./ALU/ALU.tst
+200804-143801 updater:  Creating: ./ALU/ALU-nostat.tst
+200804-143801 updater:  Creating: ./ALU/ALU-nostat.cmp
+200804-143801 updater:  Creating: ./ALU/ALU.cmp
+200804-143801 updater:  Made bin/run-tests executable
+200804-143801 updater:  Creating: HalfAdder.hdl
+200804-143801 updater:  Creating: FullAdder.hdl
+200804-143801 updater:  Creating: Inc16.hdl
+200804-143801 updater:  Creating: Add16.hdl
+200804-143801 updater:  Creating: ALU/ALU.hdl
+200804-143801 updater:  Updating: updates/README
+200804-143801 updater:  Update installed
+200806-112536 Modified: MDVmYWI3YTgzZmRlYTkyNWVlYjI0NzYzYWQ0MTYxNzI0ODIxMmM5MSAgLi9IYWxmQWRkZXIub3V0
+Cg==
+200806-112536 make 
+200806-112536 SVN user: a1788848, repository path: 2020/s2/cs/workshop02
+200807-135459 Modified: ZTU5MzFmYmU0ZGJiNTU2ZjMzODRhYmVlOTk1YmMzZTYxZTIyNjJhMSAgLi9BTFUvQUxVLW5vc3Rh
+dC5vdXQKYjQ0OGFjMDM2Njc5MGY3MjJlZmIyZWJmMTBlYTc1Y2JiMDZjYmVlZCAgLi9BTFUvQUxV
+Lm91dAo2ODQ1MmYyODI3YWY2NmFjODFlOTk2NDk1ZjFjY2QyYjY4NDU5NWE4ICAuL0hhbGZBZGRl
+ci5oZGwKMjc4ZTcyYzVjZTU2OGY2ZTMxZmJmYjkyNTdjZWI1Nzk4YmZiZTA1NCAgLi9GdWxsQWRk
+ZXIuaGRsCmFjY2EyZWQzYmU2ODQ2NjUzYTk2N2U4M2ZjZTIwMDU4YjNkMGE5ZjQgIC4vSW5jMTYu
+aGRsCjc5ZmEzN2NiYjQ2NjI0N2MzNDg4MzEwMjRkZjhhZmIyZDIyNzFjNjQgIC4vQWRkMTYuaGRs
+Cjg0ZjY4MjA3NGMzNDg1ZGZkNzk2MGJmOGY2Y2YzMTIxMDJhZTdhYjQgIC4vSGFsZkFkZGVyLm91
+dApmMDZjMDRlMTFhYzdmNjE3NjY3Zjg4MTI5NDQ1ZmQ2YjE4ZGYxYzVkICAuL0FkZDE2Lm91dApi
+MjU4OTZlYjNhZTE1MWE1MDNlZDZiOGMyZWFkNjA1MmNlZDExMTk0ICAuL0Z1bGxBZGRlci5vdXQK
+YWUxODZkNjFhNmNkZTA0YWNmNTc3NWQ2MjVjZDQ3NDA2MzIxOGRmYyAgLi9JbmMxNi5vdXQK
+200807-135459 make 
+200807-135459 SVN user: a1788848, repository path: 2020/s2/cs/workshop02

@@ -1,0 +1,31 @@
+<program>
+    <declarations>
+    </declarations>
+    <statement>
+        <if-else>
+            <expression>
+                <infix-op>
+                    <term>
+                        <int>
+                            <ic>1</ic>
+                        </int>
+                    </term>
+                    <op>&lt;</op>
+                    <term>
+                        <int>
+                            <ic>2</ic>
+                        </int>
+                    </term>
+                </infix-op>
+            </expression>
+            <statement>
+                <statements>
+                </statements>
+            </statement>
+            <statement>
+                <statements>
+                </statements>
+            </statement>
+        </if-else>
+    </statement>
+</program>

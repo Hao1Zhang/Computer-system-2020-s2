@@ -1,0 +1,147 @@
+200918-151831 Modified: YjI2MDgyM2ViYzNiNWRjYjllZmJiNDVjNTUxNGVkMDU4N2EwNDg1OSAgLi91cGRhdGVzL3dvcmtz
+aG9wMDgtMjAyMDA4MjgtMTYwODUwLnppcAo=
+200918-151831 make install
+200918-151831 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-151831 updater:  Directory: ./bin
+200918-151831 updater:  Directory: ./originals
+200918-151831 updater:  Directory: ./lib
+200918-151831 updater:  Directory: ./lib/cats
+200918-151831 updater:  Directory: ./lib/cats/bin
+200918-151831 updater:  Directory: ./lib/macos
+200918-151831 updater:  Directory: ./lib/macos/bin
+200918-151831 updater:  Directory: ./lib/centos8
+200918-151831 updater:  Directory: ./lib/centos8/bin
+200918-151831 updater:  Creating: ./bin/assembler
+200918-151831 updater:  Creating: ./bin/simulator
+200918-151831 updater:  Creating: ./bin/run-tests
+200918-151831 updater:  Creating: updates/Makefile
+200918-151831 updater:  Creating: ./originals/question03.vm-asm
+200918-151831 updater:  Creating: ./originals/question01.vm-asm
+200918-151831 updater:  Creating: ./originals/question05.vm-asm
+200918-151831 updater:  Creating: ./originals/question02.vm-asm
+200918-151831 updater:  Creating: ./originals/question00.vm-asm
+200918-151831 updater:  Creating: ./originals/question04.vm-asm
+200918-151831 updater:  Creating: ./originals/question06.vm-asm
+200918-151831 updater:  Creating: ./lib/cats/bin/assembler
+200918-151831 updater:  Creating: ./lib/cats/bin/simulator
+200918-151831 updater:  Creating: ./lib/macos/bin/assembler
+200918-151831 updater:  Creating: ./lib/macos/bin/simulator
+200918-151831 updater:  Creating: ./lib/centos8/bin/assembler
+200918-151831 updater:  Creating: ./lib/centos8/bin/simulator
+200918-151831 updater:  Made bin/assembler executable
+200918-151831 updater:  Made bin/run-tests executable
+200918-151831 updater:  Made bin/simulator executable
+200918-151831 updater:  Made lib/cats/bin/assembler executable
+200918-151831 updater:  Made lib/cats/bin/simulator executable
+200918-151831 updater:  Made lib/centos8/bin/assembler executable
+200918-151831 updater:  Made lib/centos8/bin/simulator executable
+200918-151831 updater:  Made lib/macos/bin/assembler executable
+200918-151831 updater:  Made lib/macos/bin/simulator executable
+200918-151831 updater:  Creating: question03.vm-asm
+200918-151831 updater:  Creating: question01.vm-asm
+200918-151831 updater:  Creating: question05.vm-asm
+200918-151831 updater:  Creating: question02.vm-asm
+200918-151831 updater:  Creating: question00.vm-asm
+200918-151831 updater:  Creating: question04.vm-asm
+200918-151831 updater:  Creating: question06.vm-asm
+200918-151831 updater:  Updating: updates/README
+200918-151831 updater:  Update installed
+200918-151858 make 
+200918-151858 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-154702 Modified: NDY5NGIxMmMxYzM4YjU0MzJlOTdjYjdmZDkwZTI1YzhhMzNiYmNkYSAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200918-154702 make 
+200918-154702 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-154726 Modified: M2RlZTIxNjM5ZmEzYTM2ZGY4Njc3MGY0OWRjYjEwOThhMGUwMmJmMCAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200918-154726 make 
+200918-154726 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-161703 Modified: MmE0Mzc4YzA5ODk2ZWM3OGFmYzllNDg5MGQ0MmQ0OTdlZDg0Yzc0MSAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200918-161703 make 
+200918-161703 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-162141 Modified: M2RlZTIxNjM5ZmEzYTM2ZGY4Njc3MGY0OWRjYjEwOThhMGUwMmJmMCAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200918-162141 make 
+200918-162141 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-162953 Modified: YWMxNzU4OGI4NDgwYzMyNmNmZWU4YjU4NmI4MDE2NjNlZmRmZGExZCAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200918-162953 make 
+200918-162953 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-163217 Modified: YWMxNzU4OGI4NDgwYzMyNmNmZWU4YjU4NmI4MDE2NjNlZmRmZGExZCAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQphMWQ0NjllY2VjODJlOWJjZTZmOGEyYmNlODI3Y2Q3OTljYzc0M2I4ICAuL3F1ZXN0aW9u
+MDIudm0tYXNtCg==
+200918-163217 make 
+200918-163217 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200918-163326 Modified: NTc4ZTc5OWI0MjVlNzFhOTE5ZjhmNGJiOThlYTkzYjJkZWM4MWExMSAgLi9xdWVzdGlvbjAyLnZt
+LWFzbQo=
+200918-163326 make 
+200918-163326 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-173917 make 
+200928-173917 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-173938 Modified: OTQ5MjE2ZGY4NGY2Yjc3ODlhNmYxYzIxMzMzN2QxNGJhYmE5ZjEyMiAgLi9xdWVzdGlvbjAyLnZt
+LWFzbQo=
+200928-173938 make 
+200928-173938 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-174013 Modified: YTYyODBmY2ZhNDQ4NmFiODg1Mjk4OTNiMDBhNTNkYjg4NGQ1NGFiZSAgLi9xdWVzdGlvbjAyLnZt
+LWFzbQo=
+200928-174013 make 
+200928-174013 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-174035 Modified: ZWI0MmVkYzRmYjU4NTA1MTM5YmRjOWJmOThjYTc5NzUyNzlmMzRmZiAgLi9xdWVzdGlvbjAyLnZt
+LWFzbQo=
+200928-174035 make 
+200928-174035 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-175115 Modified: N2RhOWE4NjU5ODNhOTcwYzdjYmIxMjRiODAzNGNmNmUyYTUwODRjYyAgLi9xdWVzdGlvbjAzLnZt
+LWFzbQo=
+200928-175115 make 
+200928-175115 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-175203 Modified: NmRhZmQ3YTIxNjVmMDY2OGJkOWEwMTA4YjQ4MDU4ODdjNTU3OGNhMSAgLi9xdWVzdGlvbjAzLnZt
+LWFzbQo=
+200928-175203 make 
+200928-175203 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200928-181129 make 
+200928-181129 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-160541 Modified: MjlhZGIzYTc4NjY4NzE1NjBlNWQ0MzBlNjBkMWRlNmRiMGJkOWNjYiAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200929-160541 make 
+200929-160541 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-160908 Modified: NzBjYzNhNzhhYjU2MjA2OTk0YmNjZDgzOWY3YzhhY2ZjZTRkNTU1ZCAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200929-160908 make 
+200929-160908 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-161424 Modified: N2Q2ZDQxYWQxZmQyNDg0OTYyZjAzOWM2ZmNmYjUzM2ZhZTZmNDYyYiAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+200929-161424 make 
+200929-161424 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-170421 Modified: NWQ2YTRiY2FmNjM0NGZkZDJhZjk4ZjdiYzhlNWRjZDZlMzA2NTYxMCAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-170421 make 
+200929-170421 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-170556 Modified: ZWI0MmVkYzRmYjU4NTA1MTM5YmRjOWJmOThjYTc5NzUyNzlmMzRmZiAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-170556 make 
+200929-170556 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171013 Modified: NTdmZGZmY2YwZDdhYzNlZjg2NzBlMzAwYjFiOTIxMzIxNWY2Y2ZmMCAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-171013 make 
+200929-171013 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171130 Modified: Njc5YjY4MjFjNWRjYTNlYWVmOGYwZWJmNDI1NjEyNzVlZWI2ZDc3YyAgLi9xdWVzdGlvbjAzLnZt
+LWFzbQo=
+200929-171130 make 
+200929-171130 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171318 Modified: OTQ5MjE2ZGY4NGY2Yjc3ODlhNmYxYzIxMzMzN2QxNGJhYmE5ZjEyMiAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-171318 make 
+200929-171318 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171335 Modified: MzNmMDY5MzE0YTQyNjQ5N2JlZWZlMTA3ZjlmNDMzMWYxOWEyOTkxMyAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-171335 make 
+200929-171335 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171407 Modified: ZWIxZWE4NGQxZTQ4NGYxYjNkZGIxMDE3ZWQzMmVlNDUyMTBhZjYxOSAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-171407 make 
+200929-171407 SVN user: a1788848, repository path: 2020/s2/cs/workshop08
+200929-171423 Modified: ZWIxZWE4NGQxZTQ4NGYxYjNkZGIxMDE3ZWQzMmVlNDUyMTBhZjYxOSAgLi9xdWVzdGlvbjAwLnZt
+LWFzbQo=
+200929-171423 make 
+200929-171423 SVN user: a1788848, repository path: 2020/s2/cs/workshop08

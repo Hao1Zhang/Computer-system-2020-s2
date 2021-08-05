@@ -1,0 +1,2 @@
+var int v ;
+let v = ( call afunction (v,2,"hello mum!") ) ;

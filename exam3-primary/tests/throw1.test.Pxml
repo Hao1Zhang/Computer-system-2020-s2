@@ -1,0 +1,15 @@
+<program>
+    <declarations>
+    </declarations>
+    <statement>
+        <throw>
+            <expression>
+                <term>
+                    <int>
+                        <ic>43</ic>
+                    </int>
+                </term>
+            </expression>
+        </throw>
+    </statement>
+</program>

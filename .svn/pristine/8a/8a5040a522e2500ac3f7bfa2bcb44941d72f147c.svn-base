@@ -1,0 +1,69 @@
+201013-090045 Modified: YjkzYTE4Y2Q1ZGM1ZDVhNmNkMzkwOTI5NWUyNmI5MWYxNTc0NTRlMyAgLi91cGRhdGVzL2V4YW0y
+cC0yMDIwMDkyMy0xMjExMTIuemlwCg==
+201013-090045 make install
+201013-090045 SVN user: a1788848, repository path: 2020/s2/cs/exam2-primary
+201013-090045 updater:  Directory: ./bin
+201013-090045 updater:  Directory: ./originals
+201013-090045 updater:  Directory: ./lib
+201013-090045 updater:  Directory: ./lib/cats
+201013-090045 updater:  Directory: ./lib/cats/bin
+201013-090045 updater:  Directory: ./lib/macos
+201013-090045 updater:  Directory: ./lib/macos/bin
+201013-090045 updater:  Directory: ./lib/centos8
+201013-090045 updater:  Directory: ./lib/centos8/bin
+201013-090045 updater:  Creating: ./bin/assembler
+201013-090045 updater:  Creating: ./bin/simulator
+201013-090045 updater:  Creating: ./bin/run-tests
+201013-090045 updater:  Creating: updates/Makefile
+201013-090045 updater:  Creating: ./originals/question03.vm-asm
+201013-090045 updater:  Creating: ./originals/question01.vm-asm
+201013-090045 updater:  Creating: ./originals/question09.vm-asm
+201013-090045 updater:  Creating: ./originals/question05.vm-asm
+201013-090045 updater:  Creating: ./originals/question07.vm-asm
+201013-090045 updater:  Creating: ./originals/question10.vm-asm
+201013-090045 updater:  Creating: ./originals/question02.vm-asm
+201013-090045 updater:  Creating: ./originals/question00.vm-asm
+201013-090045 updater:  Creating: ./originals/question08.vm-asm
+201013-090045 updater:  Creating: ./originals/question04.vm-asm
+201013-090045 updater:  Creating: ./originals/question06.vm-asm
+201013-090045 updater:  Creating: ./lib/cats/bin/assembler
+201013-090045 updater:  Creating: ./lib/cats/bin/simulator
+201013-090045 updater:  Creating: ./lib/macos/bin/assembler
+201013-090045 updater:  Creating: ./lib/macos/bin/simulator
+201013-090045 updater:  Creating: ./lib/centos8/bin/assembler
+201013-090045 updater:  Creating: ./lib/centos8/bin/simulator
+201013-090045 updater:  Made bin/assembler executable
+201013-090045 updater:  Made bin/run-tests executable
+201013-090045 updater:  Made bin/simulator executable
+201013-090045 updater:  Made lib/cats/bin/assembler executable
+201013-090045 updater:  Made lib/cats/bin/simulator executable
+201013-090045 updater:  Made lib/centos8/bin/assembler executable
+201013-090045 updater:  Made lib/centos8/bin/simulator executable
+201013-090045 updater:  Made lib/macos/bin/assembler executable
+201013-090045 updater:  Made lib/macos/bin/simulator executable
+201013-090045 updater:  Creating: question03.vm-asm
+201013-090045 updater:  Creating: question01.vm-asm
+201013-090045 updater:  Creating: question09.vm-asm
+201013-090045 updater:  Creating: question05.vm-asm
+201013-090045 updater:  Creating: question07.vm-asm
+201013-090045 updater:  Creating: question10.vm-asm
+201013-090045 updater:  Creating: question02.vm-asm
+201013-090045 updater:  Creating: question00.vm-asm
+201013-090045 updater:  Creating: question08.vm-asm
+201013-090045 updater:  Creating: question04.vm-asm
+201013-090045 updater:  Creating: question06.vm-asm
+201013-090045 updater:  Updating: updates/README
+201013-090045 updater:  Update installed
+201013-090725 Modified: YjNlMGE0MDA5ZjUyYjEwODdkNzAwODljOTFiODJkZTJhOTIyZjNhZSAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQo=
+201013-090725 make 
+201013-090725 SVN user: a1788848, repository path: 2020/s2/cs/exam2-primary
+201013-090925 Modified: YjNlMGE0MDA5ZjUyYjEwODdkNzAwODljOTFiODJkZTJhOTIyZjNhZSAgLi9xdWVzdGlvbjAxLnZt
+LWFzbQozY2MxMWI5OWNkOWRkODM1MDFhYjNlMDgxMTU5MzQxZjYzM2ZiMWY4ICAuL3F1ZXN0aW9u
+MDIudm0tYXNtCg==
+201013-090925 make 
+201013-090925 SVN user: a1788848, repository path: 2020/s2/cs/exam2-primary
+201013-091049 Modified: ODNjZjdiMjUwY2E0ZjVhODc4NzA4ZDc2NTJlYWY3NmJkNGViZWNjOSAgLi9xdWVzdGlvbjAzLnZt
+LWFzbQo=
+201013-091049 make 
+201013-091049 SVN user: a1788848, repository path: 2020/s2/cs/exam2-primary

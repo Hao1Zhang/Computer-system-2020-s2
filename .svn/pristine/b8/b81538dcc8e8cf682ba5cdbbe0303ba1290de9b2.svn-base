@@ -1,0 +1,44 @@
+200827-181242 Modified: NzhlMGVlYzQxM2I0MDBlZGM0YzUwODRmNzRjOTE3ZGUzNjIwMmIwYSAgLi91cGRhdGVzL3Byb2pl
+Y3QwNS0yMDIwMDgxNC0xMDE2MzMuemlwCmQ1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdi
+YWU3NDUyODkgIC4vTWFrZWZpbGUK
+200827-181242 make install
+200827-181242 SVN user: a1788848, repository path: 2020/s2/cs/project05
+200827-181242 updater:  Directory: ./bin
+200827-181242 updater:  Directory: ./originals
+200827-181242 updater:  Creating: ./ComputerRect.tst
+200827-181242 updater:  Creating: ./ComputerAdd.tst
+200827-181242 updater:  Creating: ./CPU-external.cmp
+200827-181242 updater:  Creating: ./Memoryx.tst
+200827-181242 updater:  Creating: ./bin/run-tests
+200827-181242 updater:  Creating: ./ComputerAdd-external.tst
+200827-181242 updater:  Creating: updates/Makefile
+200827-181242 updater:  Creating: ./Add.hack
+200827-181242 updater:  Creating: ./ComputerMax-external.tst
+200827-181242 updater:  Creating: ./originals/Memory.hdl
+200827-181242 updater:  Creating: ./originals/Computer.hdl
+200827-181242 updater:  Creating: ./originals/CPU.hdl
+200827-181242 updater:  Creating: ./Memory.tst
+200827-181242 updater:  Creating: ./CPU.cmp
+200827-181242 updater:  Creating: ./ComputerRect-external.tst
+200827-181242 updater:  Creating: ./ComputerMax.cmp
+200827-181242 updater:  Creating: ./ComputerMax-external.cmp
+200827-181242 updater:  Creating: ./Max.hack
+200827-181242 updater:  Creating: ./ComputerMax.tst
+200827-181242 updater:  Creating: ./Rect.hack
+200827-181242 updater:  Creating: ./Memory.cmp
+200827-181242 updater:  Creating: ./CPU.tst
+200827-181242 updater:  Creating: ./ComputerRect-external.cmp
+200827-181242 updater:  Creating: ./ComputerAdd-external.cmp
+200827-181242 updater:  Creating: ./CPU-external.tst
+200827-181242 updater:  Creating: ./Memoryx.cmp
+200827-181242 updater:  Creating: ./ComputerRect.cmp
+200827-181242 updater:  Creating: ./ComputerAdd.cmp
+200827-181242 updater:  Made Add.hack executable
+200827-181242 updater:  Made Max.hack executable
+200827-181242 updater:  Made Rect.hack executable
+200827-181242 updater:  Made bin/run-tests executable
+200827-181242 updater:  Creating: Memory.hdl
+200827-181242 updater:  Creating: Computer.hdl
+200827-181242 updater:  Creating: CPU.hdl
+200827-181242 updater:  Updating: updates/README
+200827-181242 updater:  Update installed

@@ -1,0 +1,55 @@
+200915-090057 Modified: YzNkMjBmYjJkZjNiYWQ2OTgwMzQ0ODA1MTYxYzkwZWNhYzM0MjZhOSAgLi91cGRhdGVzL2V4YW0x
+cC0yMDIwMDgzMS0xNTU4MjUuemlwCmQ1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3
+NDUyODkgIC4vTWFrZWZpbGUK
+200915-090057 make install
+200915-090057 SVN user: a1788848, repository path: 2020/s2/cs/exam1-primary
+200915-090057 updater:  Directory: ./bin
+200915-090057 updater:  Directory: ./originals
+200915-090057 updater:  Directory: ./tests
+200915-090057 updater:  Directory: ./includes
+200915-090057 updater:  Directory: ./lib
+200915-090057 updater:  Directory: ./lib/cats
+200915-090057 updater:  Directory: ./lib/cats/bin
+200915-090057 updater:  Directory: ./lib/macos
+200915-090057 updater:  Directory: ./lib/macos/bin
+200915-090057 updater:  Directory: ./lib/centos8
+200915-090057 updater:  Directory: ./lib/centos8/bin
+200915-090057 updater:  Creating: ./tokeniser
+200915-090057 updater:  Creating: ./bin/diffc
+200915-090057 updater:  Creating: ./bin/diff-colours
+200915-090057 updater:  Creating: ./bin/Compiler-check.bash
+200915-090057 updater:  Creating: ./bin/run-tests
+200915-090057 updater:  Creating: updates/Makefile
+200915-090057 updater:  Creating: ./originals/tokeniser.cpp
+200915-090057 updater:  Creating: ./tests/empty
+200915-090057 updater:  Creating: ./tests/empty.tokens
+200915-090057 updater:  Creating: ./includes/tokeniser-extras.h
+200915-090057 updater:  Creating: ./includes/tokeniser.h
+200915-090057 updater:  Creating: ./lib/cats/bin/diff-colours
+200915-090057 updater:  Creating: ./lib/cats/lib.a
+200915-090057 updater:  Creating: ./lib/macos/bin/diff-colours
+200915-090057 updater:  Creating: ./lib/macos/lib.a
+200915-090057 updater:  Creating: ./lib/centos8/bin/diff-colours
+200915-090057 updater:  Creating: ./lib/centos8/lib.a
+200915-090057 updater:  Creating: ./main.cpp
+200915-090057 updater:  Made tokeniser executable
+200915-090057 updater:  Made bin/Compiler-check.bash executable
+200915-090057 updater:  Made bin/diffc executable
+200915-090057 updater:  Made bin/diff-colours executable
+200915-090057 updater:  Made bin/run-tests executable
+200915-090057 updater:  Made lib/cats/bin/diff-colours executable
+200915-090057 updater:  Made lib/centos8/bin/diff-colours executable
+200915-090057 updater:  Made lib/macos/bin/diff-colours executable
+200915-090057 updater:  Creating: tokeniser.cpp
+200915-090057 updater:  Updating: updates/README
+200915-090057 updater:  Update installed
+200915-090239 make 
+200915-090239 SVN user: a1788848, repository path: 2020/s2/cs/exam1-primary
+200915-092421 Modified: NjdmNmNkOGNkYWY4NGY5ODU0YTVlYTQxNmY4NGE3Y2E3Y2Q1M2Y2MiAgLi90b2tlbmlzZXIxLmNw
+cAo=
+200915-092421 make 
+200915-092421 SVN user: a1788848, repository path: 2020/s2/cs/exam1-primary
+200915-092453 make 
+200915-092453 SVN user: a1788848, repository path: 2020/s2/cs/exam1-primary
+200915-092534 make 
+200915-092534 SVN user: a1788848, repository path: 2020/s2/cs/exam1-primary
